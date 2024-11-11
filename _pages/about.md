@@ -25,7 +25,7 @@ Education
   *B.A. in Digital Media*  
   September 2017 – June 2021
 
-Getting started
+Publications
 ======
 - **Yang Lu**, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo.  
   ["Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality"](https://dl.acm.org/doi/abs/10.1145/3664647.3681460).  
