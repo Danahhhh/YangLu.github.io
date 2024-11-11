@@ -1,6 +1,6 @@
 
 	#map {
-		width: 800px; 
+		width: 1200px; 
 		height: 600px; 
 		border: 1px solid #ccc;
 	}
@@ -22,7 +22,7 @@
 	}
 
 	#progress-bar {
-	    width: 0;
+	    width: 200px;
 	    height: 100%;
 	    background-color: #76A6FC;
 	    border-radius: 4px;
