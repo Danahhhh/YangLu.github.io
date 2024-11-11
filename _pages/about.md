@@ -12,12 +12,12 @@ I am a fourth-year Ph.D. student majoring in Design Science at the College of Co
 Education
 ======
 - **University of Rochester, USA**  
-  *Visiting Student, Bear Lab*<br>  
+  *Visiting Student, Bear Lab*  
   *Advisor: Prof. Yukang Yan*  
   November 2024 – Present
 
 - **Zhejiang University, China**  
-  *Ph.D. Student in Design Science (M.S./Ph.D. Integrated Program)*<br>  
+  *Ph.D. Student in Design Science (M.S./Ph.D. Integrated Program)*  
   *Prof. Shijian Luo*  
   September 2021 – Present
 
