@@ -27,13 +27,12 @@ Education
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Yang Lu**, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo.  
+  ["Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality"](https://dl.acm.org/doi/abs/10.1145/3664647.3681460).  
+  *Proceedings of the 32nd ACM International Conference on Multimedia*, pp. 98–107, 2024.  
+**Abstract**: Virtual reality (VR) is a revolutionary method of presenting data visualizations, which brings potential possibilities for enhancing analytical activities. However, applying this method to visualize complex data flows remains largely underexplored, especially the Sankey diagrams, which have an advantageous capacity to represent trends in data flows. In this work, we explored a novel design for the immersive Sankey diagram system within VR environments, utilizing a three-dimensional visual design and several interaction techniques that leveraged VR's spatial and immersive capabilities. Through two comparative user studies, we found the effectiveness of the VR Sankey diagram system in improving task performance and engagement and reducing cognitive workload in complex data analysis. We contribute an interactive, immersive Sankey diagram system in VR environments, empirical evidence of its advantages, and design lessons for future immersive visualization tools.
 
+  
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
