@@ -18,7 +18,7 @@ Education
 
 - **Zhejiang University, China**  
   *Ph.D. Student in Design Science (M.S./Ph.D. Integrated Program)*  
-  *Prof. Shijian Luo*  
+  *Advisor: Prof. Shijian Luo*  
   September 2021 – Present
 
 - **Shanghai University, China**  
