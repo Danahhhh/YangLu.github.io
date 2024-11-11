@@ -29,9 +29,9 @@ Publications
   ["Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality"](https://dl.acm.org/doi/abs/10.1145/3664647.3681460).  
   *Proceedings of the 32nd ACM International Conference on Multimedia*, pp. 98–107, 2024.  
 **Abstract**: Virtual reality (VR) is a revolutionary method of presenting data visualizations, which brings potential possibilities for enhancing analytical activities. However, applying this method to visualize complex data flows remains largely underexplored, especially the Sankey diagrams, which have an advantageous capacity to represent trends in data flows. In this work, we explored a novel design for the immersive Sankey diagram system within VR environments, utilizing a three-dimensional visual design and several interaction techniques that leveraged VR's spatial and immersive capabilities. Through two comparative user studies, we found the effectiveness of the VR Sankey diagram system in improving task performance and engagement and reducing cognitive workload in complex data analysis. We contribute an interactive, immersive Sankey diagram system in VR environments, empirical evidence of its advantages, and design lessons for future immersive visualization tools.
-![Immersive Sankey Diagram in VR](assets/images/finalsystem.png)
+![Immersive Sankey Diagram in VR](finalsystem.png)
 
-- **Yao Wang**, **Yang Lu**, Cheng-Yi Shen, Shi-Jian Luo, Long-Yu Zhang.  
+- Yao Wang, **Yang Lu**, Cheng-Yi Shen, Shi-Jian Luo, Long-Yu Zhang.  
   ["Exploring Product Style Perception: A Comparative Eye-Tracking Analysis of Users across Varying Levels of Self-Monitoring"](https://www.sciencedirect.com/science/article/pii/S0141938224001549).  
   *Displays*, vol. 84, p. 102790, 2024.
   
