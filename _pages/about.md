@@ -41,8 +41,8 @@ Publications
   
 Academic Project Experience
 ------
-- Research on the Evaluation Indicator System of Products’ Cultural Style and Design Aesthetics in Virtual Twin Scenes  
-**National Key R&D Program of China** *Sept. 2022 – Current*
+- Research on the Evaluation Indicator System of Products’ Cultural Style and Design Aesthetics in Virtual Twin Scenes——*Sept. 2022 – Current*    
+**National Key R&D Program of China** 
     
   - *PI: Prof. Shijian Luo (Department of Industrial Design, Zhejiang University)* 
   - **Core Contribution**: Established a novel framework for assessing product aesthetics, providing insights into how cultural style and design aesthetics impact emotional user engagement.
