@@ -1,6 +1,6 @@
 .container {
     width:1200px;
-    border:1px solid #d3d3d3;
+    border:5px solid #d3d3d3;
 }
 .container div {
     width:100%;
@@ -13,5 +13,6 @@
 }
 .container .content {
     display: none;
+    width:800px;
     padding : 8px;
 }
