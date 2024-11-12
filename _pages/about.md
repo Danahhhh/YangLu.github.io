@@ -21,10 +21,6 @@ Education
   *Advisor: Prof. Shijian Luo*  
   September 2021 – Present
 
-- **Shanghai University, China**  
-  *B.A. in Digital Media*  
-  September 2017 – June 2021
-
 Publications
 ======
 - **Yang Lu**, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo.  
