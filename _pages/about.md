@@ -39,7 +39,7 @@ Academic Project Experience
 ------
 - Research on the Evaluation Indicator System of Products’ Cultural Style and Design Aesthetics in Virtual Twin Scenes
 **National Key R&D Program of China**      
-  - **PI:** Prof. Shijian Luo (Department of Industrial Design, Zhejiang University) 
+**PI:** Prof. Shijian Luo (Department of Industrial Design, Zhejiang University) 
   - **Core Contribution**: Established a novel framework for assessing product aesthetics, providing insights into how cultural style and design aesthetics impact emotional user engagement.
   - **Role**: As the student team leader, I was responsible for formulating and advancing research plans, integrating findings, and summarizing project reports.
   - **Publication**: [Intelligent Evaluation Method of Product Aesthetics Oriented to
