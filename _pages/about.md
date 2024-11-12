@@ -33,6 +33,7 @@ Publications
   Yao Wang, **Yang Lu**, Cheng-Yi Shen, Shi-Jian Luo, Long-Yu Zhang.  
   *Displays*, vol. 84, p. 102790, 2024.
   - Digital shopping applications and platforms offer consumers a numerous array of products with diverse styles and style attributes. Existing literature suggests that style preferences are determined by consumers’ genders, ages, education levels, and nationalities. In this study, we argue the feasibility and necessity of self-monitoring as an additional consumer variable impacting product style perception and preference through the utilization of eye-tracking technology.
+![Eye-tracking experimental setup](images/stylestudy.png)
   
   For more publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en&authuser=1).
   
