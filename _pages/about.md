@@ -23,13 +23,13 @@ Education
 
 Publications
 ======
-- ["Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality"](https://dl.acm.org/doi/abs/10.1145/3664647.3681460).
+- ["Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality"](https://dl.acm.org/doi/abs/10.1145/3664647.3681460).  
   **Yang Lu**, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo.  
   *Proceedings of the 32nd ACM International Conference on Multimedia*, pp. 98–107, 2024.  
   - we explored a novel design for the immersive Sankey diagram system within VR environments, utilizing a three-dimensional visual design and several interaction techniques that leveraged VR's spatial and immersive capabilities. Through two comparative user studies, we found the effectiveness of the VR Sankey diagram system in improving task performance and engagement and reducing cognitive workload in complex data analysis. We contribute an interactive, immersive Sankey diagram system in VR environments, empirical evidence of its advantages, and design lessons for future immersive visualization tools.
 ![Immersive Sankey Diagram in VR](images/finalsystem.png)
 
-- ["Exploring Product Style Perception: A Comparative Eye-Tracking Analysis of Users across Varying Levels of Self-Monitoring"](https://www.sciencedirect.com/science/article/pii/S0141938224001549).
+- ["Exploring Product Style Perception: A Comparative Eye-Tracking Analysis of Users across Varying Levels of Self-Monitoring"](https://www.sciencedirect.com/science/article/pii/S0141938224001549).  
   Yao Wang, **Yang Lu**, Cheng-Yi Shen, Shi-Jian Luo, Long-Yu Zhang.  
   *Displays*, vol. 84, p. 102790, 2024.
   - Digital shopping applications and platforms offer consumers a numerous array of products with diverse styles and style attributes. Existing literature suggests that style preferences are determined by consumers’ genders, ages, education levels, and nationalities. In this study, we argue the feasibility and necessity of self-monitoring as an additional consumer variable impacting product style perception and preference through the utilization of eye-tracking technology.
