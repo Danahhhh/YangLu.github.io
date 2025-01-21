@@ -45,4 +45,4 @@ Academic Project Experience
   - **Role**: As the student team leader, I was responsible for formulating and advancing research plans, integrating findings, and summarizing project reports.
   - **Core Contribution**: Established a novel framework for assessing product aesthetics, providing insights into how cultural style and design aesthetics impact emotional user engagement.
   - **Publication**: [Intelligent Evaluation Method of Product Aesthetics Oriented to
-User's Emotional Experience](http://kns.cnki.net/kcms/detail/11.5946.TP.20231108.1141.004.html) (Accepted, First Author)
+User's Emotional Experience](http://kns.cnki.net/kcms/detail/11.5946.TP.20231108.1141.004.html) 
