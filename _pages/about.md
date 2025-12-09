@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student majoring in Design Science at the College of Computer Science, Zhejiang University, China. My research primarily focuses on Human-Computer Interaction and Virtual Reality.
+I am a fifth-year Ph.D. student majoring in Design Science at the College of Computer Science, Zhejiang University, China. My research primarily focuses on Human-Computer Interaction and Virtual Reality. I am currently seeking postdoctoral opportunities.
 
 Education
 ======
