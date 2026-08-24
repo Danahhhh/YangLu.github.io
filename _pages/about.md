@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Yang Lu — HCI & Mixed Reality Researcher"
-excerpt: "Yang Lu is an HCI and Mixed Reality researcher on the academic job market, designing immersive systems for intuitive augmented human capabilities."
+title: "Yang Lu — HCI, Mixed Reality & User Perception"
+excerpt: "Yang Lu is an HCI and Mixed Reality researcher on the academic job market, studying user perception in immersive environments."
 author_profile: false
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ---
 <section class="hero" aria-labelledby="intro-title">
   <div class="hero__copy">
-    <p class="eyebrow">HCI · MIXED REALITY · VIRTUAL REALITY</p>
+    <p class="eyebrow">HCI · MIXED REALITY · USER PERCEPTION</p>
     <h1 id="intro-title">Yang Lu</h1>
     <p class="hero__statement">I design immersive systems that make augmented human capabilities feel <em>intuitive</em>, expressive, and useful.</p>
     <div class="market-note">
@@ -23,21 +23,18 @@ redirect_from:
     <div class="hero__actions" aria-label="Primary links">
       <a class="action action--primary" href="{{ '/files/YangLu_CV.pdf' | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
       <a class="action" href="https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
-      <a class="action action--text" href="mailto:danaluyang@zju.edu.cn">Email me</a>
+      <a class="action action--text" href="mailto:danalu0723@gmail.com">Email me</a>
     </div>
   </div>
-  <figure class="hero__portrait">
-    <div class="portrait__frame">
-      <img src="{{ '/images/myphoto.png' | relative_url }}" alt="Yang Lu standing beside a white horse" />
-    </div>
-    <figcaption>Researcher, designer, and occasional exhibition wanderer.</figcaption>
+  <figure class="hero__visual">
+    <img src="{{ '/images/hero-yang-lu-v2.jpg' | relative_url }}" alt="Yang Lu — HCI, Mixed Reality, and User Perception" />
   </figure>
 </section>
 
 <section class="intro-grid" aria-label="Research overview">
   <div class="intro-grid__lead">
     <p class="section-kicker">ABOUT</p>
-    <h2>Expanding how people perceive, express, and act in virtual worlds.</h2>
+    <h2>Understanding how people perceive, express, and act in immersive worlds.</h2>
   </div>
   <div class="intro-grid__body">
     <p>My research sits at the intersection of Human–Computer Interaction and Mixed Reality. I build and study VR experiences that augment human abilities and perceptions while remaining understandable, embodied, and comfortable to use.</p>
@@ -46,30 +43,6 @@ redirect_from:
       <div><strong>3</strong><span>Sponsored projects</span></div>
       <div><strong>6+</strong><span>Review venues</span></div>
     </div>
-  </div>
-</section>
-
-<section id="research" class="section-block research" aria-labelledby="research-title">
-  <header class="section-heading">
-    <div><p class="section-kicker">RESEARCH</p><h2 id="research-title">Three connected questions</h2></div>
-    <p>My work moves from the body, to interaction, to complex information—always asking how immersive systems can better fit the people using them.</p>
-  </header>
-  <div class="research-grid">
-    <article class="research-card research-card--ink">
-      <span>01</span>
-      <h3>Embodied self & identity</h3>
-      <p>How can realistic avatars preserve expression, agency, and a convincing sense of self?</p>
-    </article>
-    <article class="research-card research-card--blue">
-      <span>02</span>
-      <h3>Augmented capabilities</h3>
-      <p>How should avatars communicate superhuman actions so they are legible before they are learned?</p>
-    </article>
-    <article class="research-card research-card--paper">
-      <span>03</span>
-      <h3>Immersive data experiences</h3>
-      <p>How can spatial interaction make complex information easier to explore and understand?</p>
-    </article>
   </div>
 </section>
 
@@ -149,13 +122,7 @@ redirect_from:
   </div>
 </section>
 
-<section id="contact" class="contact" aria-labelledby="contact-title">
-  <p class="section-kicker">LET’S CONNECT</p>
-  <h2 id="contact-title">Interested in building more human immersive futures?</h2>
-  <p>I am currently exploring academic opportunities and welcome conversations about research, collaboration, and teaching.</p>
-  <div class="contact__links">
-    <a href="mailto:danaluyang@zju.edu.cn">danaluyang@zju.edu.cn <span aria-hidden="true">↗</span></a>
-    <a href="http://orcid.org/0009-0003-6233-4153">ORCID <span aria-hidden="true">↗</span></a>
-    <a href="https://github.com/Danahhhh">GitHub <span aria-hidden="true">↗</span></a>
-  </div>
+<section id="contact" class="contact-simple" aria-labelledby="contact-title">
+  <p class="section-kicker">CONTACT</p>
+  <h2 id="contact-title"><a href="mailto:danalu0723@gmail.com">danalu0723@gmail.com <span aria-hidden="true">↗</span></a></h2>
 </section>
