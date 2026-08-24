@@ -117,12 +117,24 @@ body {
 .paper { overflow: hidden; background: #fff; border: 1px solid var(--yl-line); border-radius: 18px; }
 .paper--feature { display: flex; flex-direction: column; }
 .paper__visual { position: relative; min-height: 190px; overflow: hidden; background: var(--yl-paper); }
-.paper__visual--image img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(0.88) contrast(1.03); }
-.paper__visual--image::after { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(23,33,43,0.12), transparent 45%); content: ""; pointer-events: none; }
-.paper__visual--face img { object-position: 50% 53%; }
-.paper__visual--capability img { object-position: 50% 62%; }
-.paper__visual--sankey img { object-position: 50% 13%; }
+.paper__visual--concept { isolation: isolate; }
+.paper__concept-word { position: absolute; bottom: 1.15rem; left: 1.2rem; z-index: 3; color: rgba(23, 33, 43, 0.72); font-size: 0.62rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; }
 .paper__venue { position: absolute; top: 0.85rem; right: 0.85rem; z-index: 2; padding: 0.38rem 0.55rem; color: #fff; background: rgba(23, 33, 43, 0.82); border-radius: 999px; font-size: 0.62rem; font-weight: 750; letter-spacing: 0.08em; }
+.paper__visual--expression { background: #ece9e2; }
+.paper__visual--expression::before { position: absolute; top: 15%; right: 23%; z-index: 2; width: 88px; height: 122px; border: 1.5px solid rgba(23, 33, 43, 0.72); border-radius: 48% 48% 44% 44%; content: ""; transform: rotate(-8deg); }
+.paper__visual--expression::after { position: absolute; top: 24%; right: 5%; width: 180px; height: 82px; border: 20px solid rgba(94, 108, 230, 0.23); border-radius: 50%; content: ""; transform: rotate(-13deg); }
+.paper__visual--expression i { position: absolute; top: 42%; right: 28%; z-index: 3; width: 44px; height: 15px; border-bottom: 1.5px solid var(--yl-ink); border-radius: 50%; }
+.paper__visual--expression b { position: absolute; top: 19%; right: 8%; z-index: 3; width: 9px; height: 9px; background: var(--yl-blue); border-radius: 50%; box-shadow: -18px 9px 0 -3px rgba(94,108,230,0.45), -35px 18px 0 -4px rgba(94,108,230,0.28); }
+.paper__visual--capability { background: #b8e2dc; }
+.paper__visual--capability::before { position: absolute; top: 18%; left: 34%; width: 118px; height: 112px; border: 1.5px solid rgba(23, 33, 43, 0.55); border-radius: 44% 18px 44% 18px; content: ""; transform: rotate(11deg); }
+.paper__visual--capability::after { position: absolute; top: 29%; left: 17%; width: 74px; height: 74px; background: rgba(216, 212, 255, 0.9); border-radius: 50%; content: ""; }
+.paper__visual--capability i { position: absolute; top: 38%; left: 28%; width: 56%; height: 1px; background: rgba(23, 33, 43, 0.4); box-shadow: 0 14px 0 rgba(23,33,43,0.22), 0 -14px 0 rgba(23,33,43,0.22); transform: rotate(-16deg); }
+.paper__visual--capability b { position: absolute; top: 26%; right: 16%; width: 14px; height: 14px; background: var(--yl-blue); border-radius: 50%; box-shadow: -24px 58px 0 -3px var(--yl-blue-dark); }
+.paper__visual--sankey { background-color: #e8e5ff; background-image: linear-gradient(12deg, transparent 48%, rgba(94,108,230,0.34) 49%, rgba(94,108,230,0.34) 51%, transparent 52%), linear-gradient(-10deg, transparent 48%, rgba(157,219,213,0.72) 49%, rgba(157,219,213,0.72) 51%, transparent 52%), linear-gradient(28deg, transparent 48%, rgba(23,33,43,0.13) 49%, rgba(23,33,43,0.13) 51%, transparent 52%); }
+.paper__visual--sankey i, .paper__visual--sankey b, .paper__visual--sankey em { position: absolute; top: 29%; width: 12px; height: 42px; background: var(--yl-ink); border-radius: 3px; box-shadow: 0 58px 0 -2px var(--yl-blue-dark); }
+.paper__visual--sankey i { left: 14%; }
+.paper__visual--sankey b { left: 48%; height: 58px; background: var(--yl-cyan); }
+.paper__visual--sankey em { right: 14%; top: 23%; height: 34px; background: var(--yl-blue); }
 .paper__content { display: flex; flex: 1; flex-direction: column; padding: 1.45rem; }
 .paper__meta { display: flex; gap: 0.5rem; margin-bottom: 1rem; }
 .paper__meta span { padding: 0.25rem 0.5rem; color: var(--yl-blue-dark); background: #f1f0ff; border-radius: 999px; font-size: 0.66rem; font-weight: 750; letter-spacing: 0.04em; text-transform: uppercase; }

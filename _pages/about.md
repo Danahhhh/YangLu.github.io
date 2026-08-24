@@ -12,12 +12,12 @@ redirect_from:
   <div class="hero__copy">
     <p class="eyebrow">HCI · MIXED REALITY · USER PERCEPTION</p>
     <h1 id="intro-title">Yang Lu</h1>
-    <p class="hero__statement">I design <em>user-centered XR systems</em> that support how people understand, interact, and communicate in immersive environments.</p>
+    <p class="hero__statement">My research focuses on <em>user-centered XR system design</em>, with an emphasis on how people understand, interact, and communicate in immersive environments.</p>
     <div class="market-note">
       <span class="market-note__dot" aria-hidden="true"></span>
       <div>
         <strong>On the academic job market</strong>
-        <p>I completed my Ph.D. in Design Science at Zhejiang University in June 2026 and am seeking academic positions in HCI, XR, and human-centered immersive systems.</p>
+        <p>I completed my Ph.D. in Design Science at Zhejiang University in June 2026 and am seeking academic positions.</p>
       </div>
     </div>
     <div class="hero__actions" aria-label="Primary links">
@@ -57,9 +57,9 @@ redirect_from:
 
   <div class="featured-papers">
     <article class="paper paper--feature">
-      <div class="paper__visual paper__visual--image paper__visual--face">
-        <img src="{{ '/images/paper-face.jpg' | relative_url }}" alt="Expression modulation study overview from Tuning the Face" />
+      <div class="paper__visual paper__visual--concept paper__visual--expression" aria-hidden="true">
         <span class="paper__venue">DIS ’26</span>
+        <span class="paper__concept-word">Expression</span><i></i><b></b>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>First author</span><span>DIS 2026</span></div>
@@ -70,9 +70,9 @@ redirect_from:
     </article>
 
     <article class="paper paper--feature">
-      <div class="paper__visual paper__visual--image paper__visual--capability">
-        <img src="{{ '/images/paper-capability.jpg' | relative_url }}" alt="Avatar designs from Capability at a Glance" />
+      <div class="paper__visual paper__visual--concept paper__visual--capability" aria-hidden="true">
         <span class="paper__venue">CHI ’26</span>
+        <span class="paper__concept-word">Capability</span><i></i><b></b>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>First author</span><span>CHI 2026</span></div>
@@ -83,9 +83,9 @@ redirect_from:
     </article>
 
     <article class="paper paper--feature">
-      <div class="paper__visual paper__visual--image paper__visual--sankey">
-        <img src="{{ '/images/paper-sankey.jpg' | relative_url }}" alt="Two-dimensional and three-dimensional immersive Sankey diagrams" />
+      <div class="paper__visual paper__visual--concept paper__visual--sankey" aria-hidden="true">
         <span class="paper__venue">MM ’24</span>
+        <span class="paper__concept-word">Immersive data</span><i></i><b></b><em></em>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>First author</span><span>ACM MM 2024</span></div>
