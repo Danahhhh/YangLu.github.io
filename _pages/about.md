@@ -28,7 +28,7 @@ redirect_from:
   </div>
   <figure class="hero__portrait">
     <div class="portrait__arch">
-      <img src="{{ '/images/portrait-2026.jpg' | relative_url }}" alt="Yang Lu seated among oversized chess pieces" />
+      <img src="{{ '/images/portrait-2026-v2.jpg' | relative_url }}" alt="Yang Lu standing beside a white horse" />
     </div>
     <figcaption>HCI · Mixed Reality · User Perception</figcaption>
   </figure>
