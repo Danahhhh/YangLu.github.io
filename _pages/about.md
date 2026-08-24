@@ -1,1 +1,161 @@
-şŠmş&yºŞÃòân¶«Ëñè™æë{Ü™ßì…éez{ì†X§{_?n)ÿ¦Ã©z¶­Š‰ç¢Ú^®h­µçKKKB›^[İ]ˆÛYBœ\›X[[šÎˆÂ]Nˆ–X[™ÈH8 %ÒH	ˆZ^Y™X[]H™\ÙX\˜Ú\ˆ‚™^Ù\œˆ–X[™ÈH\È[ˆÒH[™Z^Y™X[]H™\ÙX\˜Ú\ˆÛˆHXØY[ZXÈ›ØˆX\šÙ]\ÚYÛš[™È[[Y\œÚ]™HŞ\İ[\È›Üˆ[Z]]™H]YÛY[Y[X[ˆØ\Xš[]Y\Ëˆ‚˜]]Ü—Ü›Ùš[Nˆ˜[ÙBœ™Y\™XİÙœ›ÛNˆˆHØX›İ]ÂˆHØX›İ]š[‹KKBÙXİ[ÛˆÛ\ÜÏHš\›Èˆ\šXK[X™[YOHš[›Ë]]H‚ˆ]ˆÛ\ÜÏHš\›××ØÛÜH‚ˆÛ\ÜÏH™^YXœ›İÈ’ÒH0­ÈRVQ‘PSUH0­È’T•PS‘PSUOÜ‚ˆHYHš[›Ë]]H–X[™ÈOÚO‚ˆÛ\ÜÏHš\›××Üİ][Y[’H\ÚYÛˆ[[Y\œÚ]™HŞ\İ[\È]XZÙH]YÛY[Y[X[ˆØ\Xš[]Y\È™Y[[Oš[Z]]™OÙ[O‹^™\ÜÚ]™K[™\ÙY[Ü‚ˆ]ˆÛ\ÜÏH›X\šÙ][›İH‚ˆÜ[ˆÛ\ÜÏH›X\šÙ][›İW×Ùİˆ\šXKZY[HYHÜÜ[‚ˆ]‚ˆİ›Û™Ï“ÛˆHXØY[ZXÈ›ØˆX\šÙ]Üİ›Û™Ï‚ˆ’HÛÛ\]Y^H‘ˆ[ˆ\ÚYÛˆØÚY[˜ÙH]šZšX[™È[š]™\œÚ]H[ˆ[™HŒˆ[™[HÙYZÚ[™ÈXØY[ZXÈÜÚ][ÛœÈ[ˆÒK”‹ÓT‹[™[[Y\œÚ]™H[\˜Xİ[Û‹Ü‚ˆÙ]‚ˆÙ]‚ˆ]ˆÛ\ÜÏHš\›××ØXİ[ÛœÈˆ\šXK[X™[H”š[X\H[šÜÈ‚ˆHÛ\ÜÏH˜Xİ[ÛˆXİ[Û‹K\š[X\Hˆ™YHŞÈ	ËÙš[\ËÖX[™ÓWĞÕ‹œ‰È™[]]™Wİ\›_H•šY]ÈÕˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆHÛ\ÜÏH˜Xİ[Ûˆˆ™YHšÎ‹ËÜØÚÛ\‹™ÛÛÙÛK˜ÛÛKØÚ]][ÛœÏİ\Ù\R–—Ö›ĞPPPR‰šY[ˆ‘ÛÛÙÛHØÚÛ\ˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆHÛ\ÜÏH˜Xİ[ÛˆXİ[Û‹K]^ˆ™YH›XZ[Î™[˜[^X[™ĞšK™YK˜Ûˆ‘[XZ[YOØO‚ˆÙ]‚ˆÙ]‚ˆšYİ\™HÛ\ÜÏHš\›××ÜÜ˜Z]‚ˆ]ˆÛ\ÜÏHœÜ˜Z]×Ùœ˜[YH‚ˆ[YÈÜ˜ÏHŞÈ	ËÚ[XYÙ\ËÛ^\İËœ™ÉÈ™[]]™Wİ\›_Hˆ[H–X[™ÈHİ[™[™È™\ÚYHHÚ]HÜœÙHˆÏ‚ˆÙ]‚ˆšYØØ\[Û”™\ÙX\˜Ú\‹\ÚYÛ™\‹[™ØØØ\Ú[Û˜[^Xš][ÛˆØ[™\™\‹ÙšYØØ\[Û‚ˆÙšYİ\™O‚ÜÙXİ[Û‚‚ÙXİ[ÛˆÛ\ÜÏHš[›ËYÜšYˆ\šXK[X™[H”™\ÙX\˜Úİ™\šY]È‚ˆ]ˆÛ\ÜÏHš[›ËYÜšY×ÛXY‚ˆÛ\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆP“ÕUÜ‚ˆ‘^[™[™ÈİÈ[ÜH\˜ÙZ]™K^™\ÜË[™Xİ[ˆš\X[ÛÜ›ËÚ‚ˆÙ]‚ˆ]ˆÛ\ÜÏHš[›ËYÜšY×Ø›ÙH‚ˆ“^H™\ÙX\˜ÚÚ]È]H[\œÙXİ[ÛˆÙˆ[X[¸ $ĞÛÛ\]\ˆ[\˜Xİ[Ûˆ[™Z^Y™X[]KˆHZ[[™İYH”ˆ^\šY[˜Ù\È]]YÛY[[X[ˆXš[]Y\È[™\˜Ù\[ÛœÈÚ[H™[XZ[š[™È[™\œİ[™X›K[X›ÙYY[™ÛÛY›ÜX›HÈ\ÙKÜ‚ˆ]ˆÛ\ÜÏHœ]ZXÚËY˜XİÈˆ\šXK[X™[H’YÚYÚÈ‚ˆ]İ›Û™ÏÏÜİ›Û™ÏÜ[”X›XØ][ÛœÏÜÜ[Ù]‚ˆ]İ›Û™ÏŒÏÜİ›Û™ÏÜ[”ÜÛœÛÜ™Y›Ú™XİÏÜÜ[Ù]‚ˆ]İ›Û™ÏŠÏÜİ›Û™ÏÜ[”™]šY]È™[Y\ÏÜÜ[Ù]‚ˆÙ]‚ˆÙ]‚ÜÙXİ[Û‚‚ÙXİ[ÛˆYHœ™\ÙX\˜ÚˆÛ\ÜÏHœÙXİ[Û‹X›ØÚÈ™\ÙX\˜Úˆ\šXK[X™[YOHœ™\ÙX\˜Ú]]H‚ˆXY\ˆÛ\ÜÏHœÙXİ[Û‹ZXY[™È‚ˆ]Û\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆ”‘TÑPTÒÜˆYHœ™\ÙX\˜Ú]]H•™YHÛÛ›™XİY]Y\İ[ÛœÏÚÙ]‚ˆ“^HÛÜšÈ[İ™\Èœ›ÛHH›ÙKÈ[\˜Xİ[Û‹ÈÛÛ\^[™›Ü›X][Û¸ %[Ø^\È\ÚÚ[™ÈİÈ[[Y\œÚ]™HŞ\İ[\ÈØ[ˆ™]\ˆš]H[ÜH\Ú[™È[KÜ‚ˆÚXY\‚ˆ]ˆÛ\ÜÏHœ™\ÙX\˜ÚYÜšY‚ˆ\XÛHÛ\ÜÏHœ™\ÙX\˜ÚXØ\™™\ÙX\˜ÚXØ\™KZ[šÈ‚ˆÜ[ŒOÜÜ[‚ˆÏ‘[X›ÙYYÙ[ˆ	ˆY[]OÚÏ‚ˆ’İÈØ[ˆ™X[\İXÈ]˜]\œÈ™\Ù\™H^™\ÜÚ[Û‹YÙ[˜ŞK[™HÛÛš[˜Ú[™ÈÙ[œÙHÙˆÙ[ÏÜ‚ˆØ\XÛO‚ˆ\XÛHÛ\ÜÏHœ™\ÙX\˜ÚXØ\™™\ÙX\˜ÚXØ\™KX›YH‚ˆÜ[ŒÜÜ[‚ˆÏ]YÛY[YØ\Xš[]Y\ÏÚÏ‚ˆ’İÈÚİ[]˜]\œÈÛÛ[][šXØ]Hİ\\š[X[ˆXİ[ÛœÈÛÈ^H\™HYÚX›H™Y›Ü™H^H\™HX\›™YÏÜ‚ˆØ\XÛO‚ˆ\XÛHÛ\ÜÏHœ™\ÙX\˜ÚXØ\™™\ÙX\˜ÚXØ\™K\\\ˆ‚ˆÜ[ŒÏÜÜ[‚ˆÏ’[[Y\œÚ]™H]H^\šY[˜Ù\ÏÚÏ‚ˆ’İÈØ[ˆÜ]X[[\˜Xİ[ÛˆXZÙHÛÛ\^[™›Ü›X][ÛˆX\ÚY\ˆÈ^Ü™H[™[™\œİ[™ÏÜ‚ˆØ\XÛO‚ˆÙ]‚ÜÙXİ[Û‚‚ÙXİ[ÛˆYHœX›XØ][ÛœÈˆÛ\ÜÏHœÙXİ[Û‹X›ØÚÈX›XØ][ÛœÈˆ\šXK[X™[YOHœX›XØ][ÛœË]]H‚ˆXY\ˆÛ\ÜÏHœÙXİ[Û‹ZXY[™ÈÙXİ[Û‹ZXY[™ËKXÛÛ\Xİ‚ˆ]Û\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆ”ÑSPÕQÓÔ’ÏÜˆYHœX›XØ][ÛœË]]H”™XÙ[X›XØ][ÛœÏÚÙ]‚ˆHÛ\ÜÏH^[[šÈˆ™YHšÎ‹ËÜØÚÛ\‹™ÛÛÙÛK˜ÛÛKØÚ]][ÛœÏİ\Ù\R–—Ö›ĞPPPR‰šY[ˆ[X›XØ][ÛœÈÛˆØÚÛ\ˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆÚXY\‚‚ˆ]ˆÛ\ÜÏH™™X]\™Y\\\œÈ‚ˆ\XÛHÛ\ÜÏHœ\\ˆ\\‹KY™X]\™H‚ˆ]ˆÛ\ÜÏHœ\\—×İš\İX[\\—×İš\İX[KY˜XÙHˆ\šXKZY[HYHÜ[‘TÏœ¸ &LÜÜ[OÚOÙ]‚ˆ]ˆÛ\ÜÏHœ\\—×ØÛÛ[‚ˆ]ˆÛ\ÜÏHœ\\—×ÛY]HÜ[‘TÈŒÜÜ[Ü[”Ù[‹X]˜]\œÏÜÜ[Ù]‚ˆÏ•[š[™ÈH˜XÙNˆ[Ù[][™È˜XÚX[^™\ÜÚ[ÛœÈ›Üˆ™X[\İXÈÙ[‹P]˜]\œÈ[ˆš\X[™X[]OÚÏ‚ˆİ›Û™Ï–X[™ÈOÜİ›Û™Ï‹šX[]H[™ËšX[šİ[ˆX[™ËÚZšX[ˆ[ËÚ[›X[™ÈK]ZØ[™ÈX[Ü‚ˆÙ]‚ˆØ\XÛO‚‚ˆ\XÛHÛ\ÜÏHœ\\ˆ\\‹KY™X]\™H‚ˆ]ˆÛ\ÜÏHœ\\—×İš\İX[\\—×İš\İX[KXØ\Xš[]Hˆ\šXKZY[HYHÜ[ÒOœ¸ &LÜÜ[OÚOÙ]‚ˆ]ˆÛ\ÜÏHœ\\—×ØÛÛ[‚ˆ]ˆÛ\ÜÏHœ\\—×ÛY]HÜ[ÒHŒÜÜ[Ü[]YÛY[YXİ[ÛœÏÜÜ[Ù]‚ˆÏØ\Xš[]H]HÛ[˜ÙNˆ\ÚYÛˆİZY[[™\È›Üˆ[Z]]™H]˜]\œÈÛÛ[][šXØ][™È]YÛY[YXİ[ÛœÈ[ˆš\X[™X[]OÚÏ‚ˆİ›Û™Ï–X[™ÈOÜİ›Û™Ï‹X[]Hš[™ËšX[]H[™ËX[›˜H[‹šX[šİ[ˆX[™ËÛ™Ş]Hš[™ËÚZšX[ˆ[Ë]ZØ[™ÈX[Ü‚ˆÙ]‚ˆØ\XÛO‚ˆÙ]‚‚ˆ]ˆÛ\ÜÏHœ\\‹[\İ‚ˆHÛ\ÜÏHœ\\‹\›İÈˆ™YHšÎ‹ËÙ˜XÛK›Ü™ËÙÚKØXœËÌLŒLMKÌÍËŒÍMŒ‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××ŞYX\ˆŒŒÜÜ[‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××ÛXZ[ˆİ›Û™Ï‘\ÚYÛš[™ÈÜ]X[š\İX[^˜][Ûˆ[™[\˜Xİ[ÛœÈÙˆ[[Y\œÚ]™HØ[šÙ^HXYÜ˜[H[ˆš\X[™X[]OÜİ›Û™ÏÛX[PÓH][[YYXH0­ÈX[™ÈK[X[ˆKš]Û™ÈİZKšX\[™ÈKX[›˜H[‹ÚZšX[ˆ[ÏÜÛX[ÜÜ[‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××Ø\œ›İÈˆ\šXKZY[HYH¸¡¥ÏÜÜ[‚ˆØO‚ˆHÛ\ÜÏHœ\\‹\›İÈˆ™YHšÎ‹ËİİİËœØÚY[˜ÙY\™Xİ˜ÛÛKÜØÚY[˜ÙKØ\XÛKÜZKÔÌMNLÎŒMMH‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××ŞYX\ˆŒŒÜÜ[‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××ÛXZ[ˆİ›Û™Ï‘^Üš[™È›ÙXİİ[H\˜Ù\[ÛˆHÛÛ\\˜]]™H^YKU˜XÚÚ[™È[˜[\Ú\ÏÜİ›Û™ÏÛX[‘\Ü^\È0­ÈX[ÈØ[™ËX[™ÈKÚ[™ŞZHÚ[‹ÚZšX[ˆ[ËÛ™Ş]Hš[™ÏÜÛX[ÜÜ[‚ˆÜ[ˆÛ\ÜÏHœ\\‹\›İ××Ø\œ›İÈˆ\šXKZY[HYH¸¡¥ÏÜÜ[‚ˆØO‚ˆÙ]‚ÜÙXİ[Û‚‚ÙXİ[ÛˆYH™^\šY[˜ÙHˆÛ\ÜÏHœÙXİ[Û‹X›ØÚÈ^\šY[˜ÙHˆ\šXK[X™[YOH™^\šY[˜ÙK]]H‚ˆXY\ˆÛ\ÜÏHœÙXİ[Û‹ZXY[™ÈÙXİ[Û‹ZXY[™ËKXÛÛ\Xİ‚ˆ]Û\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆ‘VT’QSÑOÜˆYH™^\šY[˜ÙK]]HXØY[ZXÈ]ÚÙ]‚ˆÚXY\‚ˆ]ˆÛ\ÜÏH[Y[[™H‚ˆ\XÛO‚ˆÛ\ÜÏH[Y[[™W×Ù]HŒŒŒH8 %ŒÜ‚ˆ]Ï”‘ˆ[ˆ\ÚYÛˆØÚY[˜ÙOÚÏ–šZšX[™È[š]™\œÚ]H0­ÈÛÛYÙHÙˆÛÛ\]\ˆØÚY[˜ÙH[™XÚ›ÛÙŞOÜÛX[’[YÜ˜]YK”Ë‹Ô‘ˆ›ÙÜ˜[H0­ÈYš\ÛÜˆ›Ù‹ˆÚZšX[ˆ[ÏÜÛX[Ù]‚ˆØ\XÛO‚ˆ\XÛO‚ˆÛ\ÜÏH[Y[[™W×Ù]HŒŒ8 %ŒÜ‚ˆ]Ï•š\Ú][™ÈİY[ÛÛ\]\ˆØÚY[˜ÙOÚÏ•[š]™\œÚ]HÙˆ›ØÚ\İ\ˆ0­È›ØÚ\İ\‹™]È[ÜšÏÜÛX[Yš\ÛÜˆ›Ù‹ˆ]ZØ[™ÈX[ÜÛX[Ù]‚ˆØ\XÛO‚ˆ\XÛO‚ˆÛ\ÜÏH[Y[[™W×Ù]HŒŒMÈ8 %ŒŒOÜ‚ˆ]Ï‹Kˆ[ˆYÚ][YYXH\ÚÏ”Ú[™ÚZH[š]™\œÚ]OÜÛX[‘ÔHËÌˆÈŒ0­È˜[šÙY›™ÙˆMOÜÛX[Ù]‚ˆØ\XÛO‚ˆÙ]‚ÜÙXİ[Û‚‚ÙXİ[ÛˆÛ\ÜÏHœÙXİ[Û‹X›ØÚÈ™XÛÙÛš][Ûˆˆ\šXK[X™[YOHœ™XÛÙÛš][Û‹]]H‚ˆ]‚ˆÛ\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆ”‘PÓÑÓ’USÓÜ‚ˆˆYHœ™XÛÙÛš][Û‹]]H”Ù[XİYÛ›ÜœÏÚ‚ˆÙ]‚ˆ[‚ˆOÜ[ŒŒÜÜ[“İ]İ[™[™ÈÜ˜YX]HÙˆšZšX[™È[š]™\œÚ]OÛO‚ˆOÜ[ŒŒOÜÜ[“İ]İ[™[™ÈÜ˜YX]HİY[ÙˆšZšX[™È[š]™\œÚ]OÛO‚ˆOÜ[ŒŒ8 $ÌOÜÜ[XØY[ZXÈØÚÛ\œÚ\šZšX[™È[š]™\œÚ]OÛO‚ˆİ[‚ˆ]ˆÛ\ÜÏHœÙ\šXÙK[›İH‚ˆÛ\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆPĞQSRPÈÑT•’PÑOÜ‚ˆ”™]šY]Ù\ˆ›ÜˆPÓHÒKRTÕTËÜ™X]]š]H	ˆÛÙÛš][Û‹QQQH”‹QQQHTÓPT‹[™PÓHÛÛ\][™Èİ\™^\ËÜ‚ˆÙ]‚ÜÙXİ[Û‚‚ÙXİ[ÛˆYH˜ÛÛXİˆÛ\ÜÏH˜ÛÛXİˆ\šXK[X™[YOH˜ÛÛXİ]]H‚ˆÛ\ÜÏHœÙXİ[Û‹ZÚXÚÙ\ˆ“U8 &TÈÓÓ“‘PÕÜ‚ˆˆYH˜ÛÛXİ]]H’[\™\İY[ˆZ[[™È[Ü™H[X[ˆ[[Y\œÚ]™H]\™\ÏÏÚ‚ˆ’H[Hİ\œ™[H^Üš[™ÈXØY[ZXÈÜÜ[š]Y\È[™Ù[ÛÛYHÛÛ™\œØ][ÛœÈX›İ]™\ÙX\˜ÚÛÛX›Ü˜][Û‹[™XXÚ[™ËÜ‚ˆ]ˆÛ\ÜÏH˜ÛÛXİ×Û[šÜÈ‚ˆH™YH›XZ[Î™[˜[^X[™ĞšK™YK˜Ûˆ™[˜[^X[™ĞšK™YK˜ÛˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆH™YHš‹ËÛÜ˜ÚY›Ü™ËÌKLËMŒŒÌËMMLÈ“ÔÒQÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆH™YHšÎ‹ËÙÚ]X‹˜ÛÛKÑ[˜Z‘Ú]XˆÜ[ˆ\šXKZY[HYH¸¡¥ÏÜÜ[ØO‚ˆÙ]‚ÜÙXİ[Û‚
+---
+layout: home
+permalink: /
+title: "Yang Lu â€” HCI & Mixed Reality Researcher"
+excerpt: "Yang Lu is an HCI and Mixed Reality researcher on the academic job market, designing immersive systems for intuitive augmented human capabilities."
+author_profile: false
+redirect_from: 
+  - /about/
+  - /about.html
+---
+<section class="hero" aria-labelledby="intro-title">
+  <div class="hero__copy">
+    <p class="eyebrow">HCI Â· MIXED REALITY Â· VIRTUAL REALITY</p>
+    <h1 id="intro-title">Yang Lu</h1>
+    <p class="hero__statement">I design immersive systems that make augmented human capabilities feel <em>intuitive</em>, expressive, and useful.</p>
+    <div class="market-note">
+      <span class="market-note__dot" aria-hidden="true"></span>
+      <div>
+        <strong>On the academic job market</strong>
+        <p>I completed my Ph.D. in Design Science at Zhejiang University in June 2026 and am seeking academic positions in HCI, VR/MR, and immersive interaction.</p>
+      </div>
+    </div>
+    <div class="hero__actions" aria-label="Primary links">
+      <a class="action action--primary" href="{{ '/files/YangLu_CV.pdf' | relative_url }}">View CV <span aria-hidden="true">â†—</span></a>
+      <a class="action" href="https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en">Google Scholar <span aria-hidden="true">â†—</span></a>
+      <a class="action action--text" href="mailto:danaluyang@zju.edu.cn">Email me</a>
+    </div>
+  </div>
+  <figure class="hero__portrait">
+    <div class="portrait__frame">
+      <img src="{{ '/images/myphoto.png' | relative_url }}" alt="Yang Lu standing beside a white horse" />
+    </div>
+    <figcaption>Researcher, designer, and occasional exhibition wanderer.</figcaption>
+  </figure>
+</section>
+
+<section class="intro-grid" aria-label="Research overview">
+  <div class="intro-grid__lead">
+    <p class="section-kicker">ABOUT</p>
+    <h2>Expanding how people perceive, express, and act in virtual worlds.</h2>
+  </div>
+  <div class="intro-grid__body">
+    <p>My research sits at the intersection of Humanâ€“Computer Interaction and Mixed Reality. I build and study VR experiences that augment human abilities and perceptions while remaining understandable, embodied, and comfortable to use.</p>
+    <div class="quick-facts" aria-label="Highlights">
+      <div><strong>7</strong><span>Publications</span></div>
+      <div><strong>3</strong><span>Sponsored projects</span></div>
+      <div><strong>6+</strong><span>Review venues</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="research" class="section-block research" aria-labelledby="research-title">
+  <header class="section-heading">
+    <div><p class="section-kicker">RESEARCH</p><h2 id="research-title">Three connected questions</h2></div>
+    <p>My work moves from the body, to interaction, to complex informationâ€”always asking how immersive systems can better fit the people using them.</p>
+  </header>
+  <div class="research-grid">
+    <article class="research-card research-card--ink">
+      <span>01</span>
+      <h3>Embodied self & identity</h3>
+      <p>How can realistic avatars preserve expression, agency, and a convincing sense of self?</p>
+    </article>
+    <article class="research-card research-card--blue">
+      <span>02</span>
+      <h3>Augmented capabilities</h3>
+      <p>How should avatars communicate superhuman actions so they are legible before they are learned?</p>
+    </article>
+    <article class="research-card research-card--paper">
+      <span>03</span>
+      <h3>Immersive data experiences</h3>
+      <p>How can spatial interaction make complex information easier to explore and understand?</p>
+    </article>
+  </div>
+</section>
+
+<section id="publications" class="section-block publications" aria-labelledby="publications-title">
+  <header class="section-heading section-heading--compact">
+    <div><p class="section-kicker">SELECTED WORK</p><h2 id="publications-title">Recent publications</h2></div>
+    <a class="text-link" href="https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en">All publications on Scholar <span aria-hidden="true">â†—</span></a>
+  </header>
+
+  <div class="featured-papers">
+    <article class="paper paper--feature">
+      <div class="paper__visual paper__visual--face" aria-hidden="true"><span>DIS<br>â€™26</span><i></i></div>
+      <div class="paper__content">
+        <div class="paper__meta"><span>DIS 2026</span><span>Self-avatars</span></div>
+        <h3>Tuning the Face: Modulating Facial Expressions for Realistic Self-Avatars in Virtual Reality</h3>
+        <p><strong>Yang Lu</strong>, Jiamu Tang, Jiankun Yang, Shijian Luo, Chenliang Xu, Yukang Yan</p>
+      </div>
+    </article>
+
+    <article class="paper paper--feature">
+      <div class="paper__visual paper__visual--capability" aria-hidden="true"><span>CHI<br>â€™26</span><i></i></div>
+      <div class="paper__content">
+        <div class="paper__meta"><span>CHI 2026</span><span>Augmented actions</span></div>
+        <h3>Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality</h3>
+        <p><strong>Yang Lu</strong>, Tianyu Zhang, Jiamu Tang, Yanna Lin, Jiankun Yang, Longyu Zhang, Shijian Luo, Yukang Yan</p>
+      </div>
+    </article>
+  </div>
+
+  <div class="paper-list">
+    <a class="paper-row" href="https://dl.acm.org/doi/abs/10.1145/3664647.3681460">
+      <span class="paper-row__year">2024</span>
+      <span class="paper-row__main"><strong>Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality</strong><small>ACM Multimedia Â· Yang Lu, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo</small></span>
+      <span class="paper-row__arrow" aria-hidden="true">â†—</span>
+    </a>
+    <a class="paper-row" href="https://www.sciencedirect.com/science/article/pii/S0141938224001549">
+      <span class="paper-row__year">2024</span>
+      <span class="paper-row__main"><strong>Exploring Product Style Perception: A Comparative Eye-Tracking Analysis</strong><small>Displays Â· Yao Wang, Yang Lu, Chengyi Shen, Shijian Luo, Longyu Zhang</small></span>
+      <span class="paper-row__arrow" aria-hidden="true">â†—</span>
+    </a>
+  </div>
+</section>
+
+<section id="experience" class="section-block experience" aria-labelledby="experience-title">
+  <header class="section-heading section-heading--compact">
+    <div><p class="section-kicker">EXPERIENCE</p><h2 id="experience-title">Academic path</h2></div>
+  </header>
+  <div class="timeline">
+    <article>
+      <p class="timeline__date">2021 â€” 2026</p>
+      <div><h3>Ph.D. in Design Science</h3><p>Zhejiang University Â· College of Computer Science and Technology</p><small>Integrated M.S./Ph.D. program Â· Advisor: Prof. Shijian Luo</small></div>
+    </article>
+    <article>
+      <p class="timeline__date">2024 â€” 2026</p>
+      <div><h3>Visiting Student, Computer Science</h3><p>University of Rochester Â· Rochester, New York</p><small>Advisor: Prof. Yukang Yan</small></div>
+    </article>
+    <article>
+      <p class="timeline__date">2017 â€” 2021</p>
+      <div><h3>B.A. in Digital Media Art</h3><p>Shanghai University</p><small>GPA 3.72 / 4.0 Â· Ranked 2nd of 149</small></div>
+    </article>
+  </div>
+</section>
+
+<section class="section-block recognition" aria-labelledby="recognition-title">
+  <div>
+    <p class="section-kicker">RECOGNITION</p>
+    <h2 id="recognition-title">Selected honors</h2>
+  </div>
+  <ul>
+    <li><span>2026</span>Outstanding Graduate of Zhejiang University</li>
+    <li><span>2025</span>Outstanding Graduate Student of Zhejiang University</li>
+    <li><span>2024â€“25</span>Academic Scholarship, Zhejiang University</li>
+  </ul>
+  <div class="service-note">
+    <p class="section-kicker">ACADEMIC SERVICE</p>
+    <p>Reviewer for ACM CHI, UIST, DIS, Creativity & Cognition, IEEE VR, IEEE ISMAR, and ACM Computing Surveys.</p>
+  </div>
+</section>
+
+<section id="contact" class="contact" aria-labelledby="contact-title">
+  <p class="section-kicker">LETâ€™S CONNECT</p>
+  <h2 id="contact-title">Interested in building more human immersive futures?</h2>
+  <p>I am currently exploring academic opportunities and welcome conversations about research, collaboration, and teaching.</p>
+  <div class="contact__links">
+    <a href="mailto:danaluyang@zju.edu.cn">danaluyang@zju.edu.cn <span aria-hidden="true">â†—</span></a>
+    <a href="http://orcid.org/0009-0003-6233-4153">ORCID <span aria-hidden="true">â†—</span></a>
+    <a href="https://github.com/Danahhhh">GitHub <span aria-hidden="true">â†—</span></a>
+  </div>
+</section>
