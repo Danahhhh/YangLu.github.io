@@ -62,7 +62,7 @@ redirect_from:
         <span class="paper__concept-word">Expression</span><i></i><b></b>
       </div>
       <div class="paper__content">
-        <div class="paper__meta"><span>First author</span><span>DIS 2026</span></div>
+        <div class="paper__meta"><span>DIS 2026</span></div>
         <h3>Tuning the Face: Modulating Facial Expressions for Realistic Self-Avatars in Virtual Reality</h3>
         <p><strong>Yang Lu</strong>, Jiamu Tang, Jiankun Yang, Shijian Luo, Chenliang Xu, Yukang Yan</p>
         <a class="doi-link" href="https://doi.org/10.1145/3800645.3812871">DOI: 10.1145/3800645.3812871 <span aria-hidden="true">↗</span></a>
@@ -75,7 +75,7 @@ redirect_from:
         <span class="paper__concept-word">Capability</span><i></i><b></b>
       </div>
       <div class="paper__content">
-        <div class="paper__meta"><span>First author</span><span>CHI 2026</span></div>
+        <div class="paper__meta"><span>CHI 2026</span></div>
         <h3>Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality</h3>
         <p><strong>Yang Lu</strong>, Tianyu Zhang, Jiamu Tang, Yanna Lin, Jiankun Yang, Longyu Zhang, Shijian Luo, Yukang Yan</p>
         <a class="doi-link" href="https://doi.org/10.1145/3772318.3790609">DOI: 10.1145/3772318.3790609 <span aria-hidden="true">↗</span></a>
@@ -88,7 +88,7 @@ redirect_from:
         <span class="paper__concept-word">Immersive data</span><i></i><b></b><em></em>
       </div>
       <div class="paper__content">
-        <div class="paper__meta"><span>First author</span><span>ACM MM 2024</span></div>
+        <div class="paper__meta"><span>ACM MM 2024</span></div>
         <h3>Designing Spatial Visualization and Interactions of Immersive Sankey Diagram in Virtual Reality</h3>
         <p><strong>Yang Lu</strong>, Junxian Li, Zhitong Cui, Jiapeng Hu, Yanna Lin, Shijian Luo</p>
         <a class="doi-link" href="https://doi.org/10.1145/3664647.3681460">DOI: 10.1145/3664647.3681460 <span aria-hidden="true">↗</span></a>
