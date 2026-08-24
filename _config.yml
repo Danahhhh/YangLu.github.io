@@ -1,350 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Yang Lu"
-title_separator          : "-"
-name                     : &name "Yang Lu"
-description              : &description "Ph.D. student at Zhejiang University"
-URL                      : https://Danahhhh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/academicpages.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "myphoto.png"
-  name             : "Yang Lu"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at Zhejiang University"
-  #location         : "Earth"
-  employer         : "Zhejiang University"
-  #uri              : # URL
-  email            : "danaluyang@zju.edu.cn" 
-
-  # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  #impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0003-6233-4153"
-  #semantic         : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     : # URL
-  #scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  #github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  #bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
-
-# Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
-
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-
-# These settings control how pages and collections are included in the site
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-
-# Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+юЉmю&yєЮГтвn¶«Лси™жл{Ь™Ям…йez{м†X§{_?n)я¦Г©z¶­Љ‰зўЪ^®h­µзHИЩ[ЫЫYHИ™ZЮ[B€В€И\ИЫЫ™љYИљ[H\ИYX[ќ›Ь€Щ][™ЬИ]Y™™XЭ[Э\€[ќ\™HЪ]K[Y\В€ИЪXЪ[ЭH\™H^XЭYИЩ]\ЫЩH[™\™[H™YYИY]Yќ\€]‚€И›Ь€XЪљXШ[™X\ЫЫњЛ\Иљ[H\И
+““Х
+€™[ШYY]]ЫX]XШ[HЪ[€[ЭH\ЩB€И™ZЮ[Щ\ќ™H[RШШ[ЬЭ€Y€[ЭHЪ[™ЩH\Иљ[KX\ЩH™\Э\ќH€ИЩ\ќ™\€›ШЩ\ЬЛ‚‚€И\ЪXИЪ]HЩ][™ЬВ›ШШ[H€™[‹UTИ‚ќ]H€–X[™ИH‚ќ]WЬЩ\\]Ь€€‹H‚›[YH€	›[YH–X[™ИH‚™\ШЬљ\[Ы€€	™\ШЬљ\[Ы€’ТH[™Z^Y™X[]H™\ЩX\Ъ\€Ы€HXШY[ZXИ›Ш€X\љЩ]‚•T“€О‹ЛС[Z™Ъ]X‹љ[ИИH\ЩHЬЭ[YH	€›ЭШЫЫ›Ь€[Э\€Ъ]HK™Л€љО‹ЛЦЮ[Э\€Ъ]X€\Щ\›[YWK™Ъ]X‹љ[И‚€Ш\Щ]\›€€€ИHЭXњ]Щ€[Э\€Ъ]KK™Л€‹Ш›ЩИ‚€Ь™\ЬЪ]ЬћH€XШY[ZXЬYЩ\ЛШXШY[ZXЬYЩ\Л™Ъ]X‹љ[И‚‚€ИЪ]H]]Ь€HH›ЫЭЪ[™ИЫЫќ›ЫЪ]\X\€\И\ќЩ€H]]Ь€ЫЫќ[ќЫ€HЪYH\‹‚€ИY€HљY[\И›[љИHXЫЫ€[™[љИЪ[›Э\X\‹Э\ќЪ\ЩH]Ъ[™HЪЭЫ‹‚€ИY][Ы[Э\ЭЫZ^][Ы€Ш[€™HЫ™HћHY][™ИЧЪ[ЫY\ЛШ]]Ь‹\›Щљ[Kљ[]]ЬЋ‚€Иљ[ЩЬ\XИ[™›Ь›X][Ы‚€]]\€€›^\ЭЛњ™И‚€[YH€–X[™ИH‚€›Ы›Э[њИ€И^[\N€њЪKЪ\€€€љ[И€’ТH	€Z^Y™X[]H™\ЩX\Ъ\€0­И‘€ЊЌ€‚€ЫШШ][Ы€€‘X\ќ‚€[\ЮY\€€–љZљX[™И[љ]™\њЪ]K‘€ЊЌ€‚€Э\љH€ИT“€[XZ[€™[[^X[™РљќK™YKЫ€€‚€ИXШY[ZXИЩXњЪ]\В€Ш\ћ]€€ИT“H\]HЪ]HЫЬњ™XЭ[љИИ[Э\€›Щљ[B€ЫЫЩЫ\ШЪЫ\€€љО‹ЛЬШЪЫ\‹™ЫЫЩЫKЫЫKШЪ]][ЫњПЭ\Щ\ЏR–—Ц›РPPPR‰љY[€‚€Ъ[\XЭЭЬћH€ИT“€ЬЪY€љ‹ЛЫЬЪY›Ь™ЛМKLЛMЊЊМЛMMLИ‚€ЬЩ[X[ќXИ€ИT“€ЬX›YY€љО‹ЛЭЭЭЛ›ШљK››K›љZ™ЫЭ‹ЬX›YYПЭ\›OZ›ЪЉЬЫ›ЭИ‚€Ь™\ЩX\ЪШ]H€ИT“€ЬШЫЬ\И€ИT“‚€И™\ЬЪ]ЬљY\И[™ЫЩќШ\™H]™[ЬY[ќ€љ]ќXЪЩ]€И\Щ\›[YHH\]HЪ][Э\€\Щ\›[YHЫ€HЪ]B€ЫЩ\[€€И\Щ\›[YB€љX›H€И\Щ\›[YB€Ъ]X€€‘[Z‚€ШYЩЫH€И\Щ\›[YH€ЭXЪЫЭ™\™›ЭИ€И\Щ\€ќ[X™\€Ь€\Щ\€ќ[X™\€[™[YH
+K™K‹\ЩHЊH€Ь€ЊKЪ™Y™‹X]ЫЫЩЉH‚€ИЫШЪX[YYXB€Ш›Y\ЪЮH€њЪЮK\€И™\XЩH\ИЪ][ЭH›Y\ЪЮH\Щ\›[YB€XЩX›ЫЪИ€И\Щ\›[YB€›XЪЬ€€И\Щ\›[YB€›Э\њЬ]X\™H€И\Щ\›[YB€ЫЫЩ™XYИ€И\Щ\›[YB€ЫЫЩЫWЬ\И€И\Щ\›[YB€Щ^X\ЩH€И\Щ\›[YB€[њЭYЬ[H€И\Щ\›[YB€\Э›H€И\Щ\›[YB€[љЩY[€€И\Щ\›[YB€X\ЭЩЫ€€ИT“€YY][H€ИT“€[ќ\™\Э€И\Щ\›[YB€ЫЭ[™ЫЭY€И\Щ\›[YB€ЭX[H€И\Щ\›[YB€[YЬ[H€ИT“€[X›€€И\Щ\›[YB€Ъ]\€€И\Щ\›[YH›Ь€ИЪ]\‚€љ[™H€И\Щ\›[YB€ЩZX›И€И\Щ\›[YB€ЪZЪ\YXH€И\Щ\›[YB€[™И€И\Щ\›[YB€[Э]X™H€И\Щ\›[YB€љZH€И\Щ\›[YB‚€ИX›XШ][Ы€Ш]YЫЬћHHH›ЫЭЪ[™ИH\ЭЩ€X›XШ][Ы€Ш]YЫЬљY\И[™Z\€XY[™ЬВњX›XШ][Ы—ШШ]YЫЬћN‚€›ЫЪЬО‚€]N€	Р›ЫЪЬЙВ€X[ќ\ШЬљ\О‚€]N€	Т›Э\›[\ќXЫ\ЙИ€ЫЫ™™\™[Щ\О‚€]N€	РЫЫ™™\™[ЩH\\њЙВ‚€ИЪ]HЩ][™ЬВќX\Щ\€€Иљ[[[YHЩ€X\Щ\€[XЪИX\Щ\€[XYЩHXЩY[€Ъ[XYЩ\ЛЛ™K™Л€ЌLМњ™И‚њ™XYЬќ[XњИ€[ЩHИќYK[ЩH
+Y][
+BќЫЬ™ЧЬ\—ЫZ[ќ]H€MЊ™ќ]\™H€ќYBњ™XYЫ[Ь™H€™\ШX›Y€ИY€[X›YYИ”™XY[Ь™H€[љЬИИ^Щ\њВќ[ЫX\Ы[љИ€[ЩHШЪ[™ЩHИќYHИY[љИИ[ЫX\Ы€[ЬИYЩBЫЫ[Y[ќО‚€›ЭљY\€€И[ЩH
+Y][
+K™\Ь]\И‹™\ШЫЭ\њЩH‹™XЩX›ЫЪИ‹™ЫЫЩЫK\\И‹њЭ]XЫX[€‹Э\ЭЫH‚€\Ь]\О‚€ЪЬќ[YH‚€\ШЫЭ\њЩN‚€Щ\ќ™\€€ИО‹ЛЫY]K™\ШЫЭ\њЩK›Ь™ЛЭЩ[X™Y[™ЛY\ШЫЭ\њЩKXЫЫ[Y[ќЛ]љXKZ]\ШЬљ\ММNMЊИK™ЛЋ€Y]K™\ШЫЭ\њЩK›Ь™В€XЩX›ЫЪО‚€\Y‚€ќ[WЬЬЭИ€ИH
+Y][
+B€ЫЫЬњШЪ[YH€И›YЪ€
+Y][
+K™\љИ‚њЭ]XЫX[Ћ‚€[ЭЩYљY[И€ЙЫ[YIЛ	Щ[XZ[	Л	Э\›	Л	ЫY\ЬШYЩIЧB€њ[Ъ€™Ъ\YЩ\И€И›X\Э\€‹™Ъ\YЩ\И‚€ЫЫ[Z]Y\ЬШYЩH€“™]ИЫЫ[Y[ќ€‚€љ[[[YH€ЫЫ[Y[ќ^Р[Y\Э[\B€›Ь›X]€ћ[[‚€[Щ\][Ы€€ќYB€]€—Щ]KШЫЫ[Y[ќЛЮЫЬ[ЫњЛњЫYЯH‚€™\]Z\™YљY[И€ЙЫ[YIЛ	Щ[XZ[	Л	ЫY\ЬШYЩIЧB€[њЩ›Ь›\О‚€[XZ[€›YH‚€Щ[™\]YљY[О‚€]N‚€\H€™]H‚€Ь[ЫњО‚€›Ь›X]€љ\ЫОЊH€Иљ\ЫОЊH€
+Y][
+Kќ[Y\Э[\\ЩXЫЫ™И‹ќ[Y\Э[\[Z[\ЩXЫЫ™И‚]ЫWЩ™YY‚€YH€[ЩHИЪ[™ЩHИќYHИYHH”ФИ™YY[€H›ЫЭ\‚€]€И›[љИ
+Y][
+H\Щ\И™YYћ[‚‚€ИСSИ™[]Y™ЫЫЩЫWЬЪ]WЭ™\љYљXШ][Ы€‚љ[™ЧЬЪ]WЭ™\љYљXШ][Ы€‚[^WЬЪ]WЭ™\љYљXШ][Ы€‚ћX[™^ЬЪ]WЭ™\љYљXШ][Ы€‚‚‚€ИЫШЪX[Ъ\љ[™ВќЪ]\Ћ‚€\Щ\›[YH€	ќЪ]\‚™XЩX›ЫЪО‚€\Щ\›[YH‚€\ЪY‚€X›\Ъ\€‚›ЩЧЪ[XYЩH€‹Ъ[XYЩ\ЛЫЩЛ^X[™Л[KљњИ€ИЬ[€Ь\ХЪ]\€Y][Ъ]H[XYЩB€И›Ь€ЬXЪYћZ[™ИЫШЪX[›Щљ[\В€ИHО‹ЛЩ]™[Ь\њЛ™ЫЫЩЫKЫЫKЬЭќXЭ\™YY]KШЭ\ЭЫZ^™KЬЫШЪX[\›Щљ[\ВњЫШЪX[‚€\H€И\њЫЫ€Ь€Ь™Ш[љ^][Ы€
+Y][ИИ\њЫЫЉB€[YH€ИY€H\Щ\€Ь€Ь™Ш[љ^][Ы€[YHY™™\њИњ›ЫHHЪ]IЬИ[YB€[љЬО€И[€\њ^HЩ€[љЬИИЫШЪX[YYXH›Щљ[\В‚‚€И[[]XЬВ[[]XЬО‚€›ЭљY\€€™[ЩH€И[ЩH
+Y][
+K™ЫЫЩЫH‹™ЫЫЩЫK][љ]™\њШ[‹™ЫЫЩЫKX[[]XЬЛM‹Э\ЭЫH‚€ЫЫЩЫN‚€XЪЪ[™ЧЪY‚‚‚€И™XY[™Иљ[\Вљ[ЫYN‚€HљXШЩ\ЬВ€HЬYЩ\В€Hљ[\В™^ЫYN‚€HЉ‹њЭX›[YK\›Ъ™XЭ‚€HЉ‹њЭX›[YK]ЫЬљЬЬXЩH‚€H\ЬЩ]XШXЪB€Hќ[™B€H™Ъ]X‚€Hљ™ZЮ[X\ЬЩ]ЛXШXЪB€HњШ\ЬЛXШXЪB€H\ЬЩ]ЛЪњЛЧЫXZ[‹љњВ€H\ЬЩ]ЛЪњЛЬYЪ[њВ€H\ЬЩ]ЛЪњЛЭ™[™Ь‚€HТS‘СSСВ€HШ\љ[B€HЫЫ™љYВ€HШЪЩ\™љ[B€HЩ[Yљ[B€HЬќ[ќљ[KљњВ€HЭ[љ[KљњВ€HPСS”СB€HШШ[€HЩВ€H›ЩWЫ[Щ[\В€HXЪШYЩKљњЫЫЉ‚€HZЩYљ[B€H‘PQQB€H\€H™[™Ь‚љЩY\Щљ[\О‚€H™Ъ]€HњЭ›‚™[ЫЩ[™О€ќ]‹N‚›X\љЩЭЫ—Щ^€›X\љЩЭЫ‹ZЩЭЫ‹ZЩ‹ZЩY‚‚‚€ИЫЫќ™\њЪ[Ы‚›X\љЩЭЫЋ€Ь[YЭЫ‚љYЪYЪ\Ћ€›ЭYЩB›ЪN€[ЩB™^Щ\њЬЩ\\]ЬЋ€——€‚љ[Ь™[Y[ќ[€[ЩB‚‚€ИX\љЩЭЫ€›ШЩ\ЬЪ[™ВљЬ[YЭЫЋ‚€[њ]€С“B€\™ЭЬ\€[ЩB€]]ЧЪYО€ќYB€›ЫЭ›ЭWЫњЋ€B€[ќ]WЫЭ]]€\ЧШЪ\‚€ШЧЫ]™[О€K‹Ќ‚€ЫX\ќЬ][Э\О€Ь][ЛњЬ][Л][Л™][В€[X›WШЫЩ\^N€[ЩB‚‚€И\ЩHЩ][™ЬИЫЫќ›ЫH\\ИЩ€ЫЫXЭ[ЫњИ\ЩYћHH[\]BЫЫXЭ[ЫњО‚€XXЪ[™О‚€Э]]€ќYB€\›X[[љО€ОЫЫXЭ[Ы‹Оњ]В€X›XШ][ЫњО‚€Э]]€ќYB€\›X[[љО€ОЫЫXЭ[Ы‹Оњ]В€Ьќ›Ы[О‚€Э]]€ќYB€\›X[[љО€ОЫЫXЭ[Ы‹Оњ]В€[ЬО‚€Э]]€ќYB€\›X[[љО€ОЫЫXЭ[Ы‹Оњ]В‚‚€И\ЩHЩ][™ЬИЫЫќ›ЫЭИYЩ\И[™ЫЫXЭ[ЫњИ\™H[ЫYY[€HЪ]B™Y][О‚€ИЬЬЭВ€HШЫЬN‚€]€€‚€\N€ЬЭВ€[Y\О‚€^[Э]€Ъ[™ЫB€]]Ь—Ь›Щљ[N€ќYB€™XYЭ[YN€ќYB€ЫЫ[Y[ќО€ќYB€Ъ\™N€ќYB€™[]Y€ќYB€ИЬYЩ\В€HШЫЬN‚€]€€‚€\N€YЩ\В€[Y\О‚€^[Э]€Ъ[™ЫB€]]Ь—Ь›Щљ[N€ќYB€ИЭXXЪ[™В€HШЫЬN‚€]€€‚€\N€XXЪ[™В€[Y\О‚€^[Э]€Ъ[™ЫB€]]Ь—Ь›Щљ[N€ќYB€Ъ\™N€ќYB€ЫЫ[Y[ќО€ќYB€ИЬX›XШ][ЫњВ€HШЫЬN‚€]€€‚€\N€X›XШ][ЫњВ€[Y\О‚€^[Э]€Ъ[™ЫB€]]Ь—Ь›Щљ[N€ќYB€Ъ\™N€ќYB€ЫЫ[Y[ќО€ќYB€ИЬЬќ›Ы[В€HШЫЬN‚€]€€‚€\N€Ьќ›Ы[В€[Y\О‚€^[Э]€Ъ[™ЫB€]]Ь—Ь›Щљ[N€ќYB€Ъ\™N€ќYB€ЫЫ[Y[ќ€ќYB€ИЭ[ЬВ€HШЫЬN‚€]€€‚€\N€[ЬВ€[Y\О‚€^[Э]€[В€]]Ь—Ь›Щљ[N€ќYB€Ъ\™N€ќYB‚‚€ИШ\ЬЛФРФФВњШ\ЬО‚€Ш\ЬЧЩ\Ћ€ЬШ\ЬВ€Э[N€ЫЫ\™\ЬЩYИ‹ЛЬШ\ЬЛ[[™ЛЫЫKЩШЭ[Y[ќ][Ы‹Щљ[K”РTФЧФ‘Q‘T‘SђСKљ[ЫЭ]]ЬЭ[B‚‚€ИЭ]][™Вњ\›X[[љО€ОШ]YЫЬљY\ЛОќ]KВ€ИYЪ[]N€HИ[[Э[ќЩ€ЬЭИИЪЭВ€ИYЪ[]WЬ]€ЬYЩN›ќ[KВќ[Y^›Ы™N€]ЛХUИИ‹ЛЩ[‹ќЪZЪ\YXK›Ь™ЛЭЪZЪKУ\ЭЫЩ—Э—Щ]X\ЩWЭ[YWЮ›Ы™\В‚‚€ИYЪ[њВњYЪ[њО‚€H™ZЮ[Y™YY€H™ZЮ[YЪ\Э€H™ZЮ[\YЪ[]B€H™ZЮ[\Ъ][X\€H™[[ЪљB‚€ИZ[ZXИЪ]X€YЩ\ИЪ]K\ШY™BќЪ][\Э‚€H™ZЮ[Y™YY€H™ZЮ[YЪ\Э€H™ZЮ[\YЪ[]B€H™ZЮ[\Ъ][X\€H™[[ЪљB‚‚€И\Ъ]™\В€И\B€ИHЪ]X€YЩ\ИЫЫ\]X›H\Ъ]™HYЩ\ИќZ[Ъ]\]ZYЏ€\N€\]ZY
+Y][
+B€ИH™ZЮ[\Ъ]™\ИYЪ[€\Ъ]™HYЩ\ИЏ€\N€™ZЮ[X\Ъ]™\В€И]
+^[\\КB€ИH\Ъ]™HYЩHЪЭ[^\Э]]Ъ[€\Ъ[™И\]ZYY]ЩЬ€[ЭHШ[‚€И^XЭњ›ЪЩ[€[љЬИ
+\ЬXЪX[HЪ]њ™XYЬќ[XњИ[X›Y
+B€ИH\ЩWЬ]‹ЭYЬЛЫ^KX]Щ\ЫЫYK]YЛЪ[™^љ[Џ€]€ЭYЬЛВ€ИH\ЩWЬ]ШШ]YЫЬљY\ЛЫ^KX]Щ\ЫЫYKXШ]YЫЬћKЪ[™^љ[Џ€]€ШШ]YЫЬљY\ЛВ€ИH\ЩWЬ]Ы^KX]Щ\ЫЫYKXШ]YЫЬћKЪ[™^љ[Џ€]€ВШ]YЫЬћWШ\Ъ]™N‚€\N€\]ZY€]€ШШ]YЫЬљY\ЛВќYЧШ\Ъ]™N‚€\N€\]ZY€]€ЭYЬЛВ€ИО‹ЛЩЪ]X‹ЫЫKЪ™ZЮ[Ъ™ZЮ[X\Ъ]™\В€И™ZЮ[X\Ъ]™\О‚€И[X›Y‚€ИHШ]YЫЬљY\В€ИHYЬВ€И^[Э]О‚€ИШ]YЫЬћN€\Ъ]™K]^Ы›Ы^B€ИYО€\Ъ]™K]^Ы›Ы^B€И\›X[[љЬО‚€ИШ]YЫЬћN€ШШ]YЫЬљY\ЛО›[YKВ€ИYО€ЭYЬЛО›[YKВ‚‚€ИSЫЫ\™\ЬЪ[Ы‚€ИH‹ЛЪЪњ[љX™[Э™KВЫЫ\™\ЬЧЪ[‚€Ы\[™ЬО€[€YЫ›Ь™N‚€[ќњО€]™[ЬY[ќ
