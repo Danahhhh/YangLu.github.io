@@ -164,7 +164,7 @@ redirect_from:
   </div>
 </section>
 
-<section class="section-block off-duty" aria-labelledby="off-duty-title">
+<section id="outside" class="section-block off-duty" aria-labelledby="off-duty-title">
   <header class="section-heading off-duty__heading">
     <div>
       <p class="section-kicker">OUTSIDE THE LAB</p>
@@ -203,6 +203,7 @@ redirect_from:
     </div>
   </div>
 
+  <p class="travel-intro">I love traveling to explore different cultures, cuisines, and ways of life.</p>
   <figure class="travel-card">
     <div class="travel-map">
       <img src="{{ '/images/travel-map-interactive.png' | relative_url }}" alt="World map with interactive markers for places Yang Lu has visited" loading="lazy" decoding="async" />

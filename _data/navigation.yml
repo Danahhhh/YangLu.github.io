@@ -9,6 +9,8 @@ main:
     url: "/#publications"
   - title: "Experience"
     url: "/#experience"
+  - title: "Outside the Lab"
+    url: "/#outside"
   - title: "CV"
     url: "/files/YangLu_CV.pdf"
   - title: "Contact"
