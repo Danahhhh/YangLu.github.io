@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 title: "Yang Lu — HCI, Mixed Reality & User Perception"
+browser_title: "Yang Lu's Homepage"
 excerpt: "Yang Lu is an HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication."
 author_profile: false
 redirect_from: 
