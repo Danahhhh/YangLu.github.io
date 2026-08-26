@@ -191,23 +191,25 @@ body {
 .service-note { padding: 1.4rem; background: var(--yl-paper); border-radius: 14px; }
 .service-note > p:last-child { margin-top: 0.85rem; color: #4c5761; font-size: 0.82rem; line-height: 1.6; }
 
-.off-duty__heading { align-items: end; }
+.off-duty { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+.off-duty__heading { align-items: end; margin-bottom: 2rem; }
+.off-duty__heading h2 { font-size: clamp(2rem, 3.4vw, 3.1rem); }
 .off-duty__heading > p { max-width: 430px; color: var(--yl-muted); font-family: Georgia, "Times New Roman", serif; font-size: 1.12rem; line-height: 1.55; }
-.off-duty__grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.65fr); gap: 1rem; }
-.baking-card { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(210px, 0.7fr); min-height: 350px; overflow: hidden; background: #fff; border: 1px solid var(--yl-line); border-radius: 20px; }
-.baking-collage { display: grid; grid-template-columns: 1.35fr 0.85fr; grid-template-rows: 1fr 1fr; gap: 0.55rem; min-height: 350px; padding: 0.7rem; background: var(--yl-paper); }
+.off-duty__grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.85fr); gap: 1rem; }
+.baking-card { display: block; min-height: 0; overflow: hidden; background: #fff; border: 1px solid var(--yl-line); border-radius: 20px; }
+.baking-collage { display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 148px; gap: 0.5rem; min-height: 0; padding: 0.65rem; background: var(--yl-paper); }
 .bake-photo { min-width: 0; min-height: 0; margin: 0; overflow: hidden; border-radius: 12px; }
-.bake-photo--main { grid-row: 1 / 3; }
+.bake-photo--main { grid-row: auto; }
 .bake-photo img { display: block; width: 100%; height: 100%; object-fit: cover; filter: saturate(0.94) contrast(1.02); transition: transform 420ms ease; }
 .bake-photo--main img { object-position: 51% 50%; }
 .bake-photo:nth-child(2) img { object-position: 50% 54%; }
 .bake-photo:nth-child(3) img { object-position: 50% 48%; }
 .bake-photo:hover img { transform: scale(1.035); }
-.baking-card__copy { display: flex; flex-direction: column; justify-content: flex-end; padding: 1.5rem; }
-.hobby-sticker { align-self: flex-start; margin-bottom: auto; padding: 0.4rem 0.58rem; color: var(--yl-blue-dark); background: #f1f0ff; border-radius: 999px; font-size: 0.6rem; font-weight: 800; letter-spacing: 0.1em; transform: rotate(-2deg); }
+.baking-card__copy { position: relative; min-height: 118px; padding: 1rem 1.2rem; }
+.hobby-sticker { display: inline-flex; margin-bottom: 0.7rem; padding: 0.35rem 0.52rem; color: var(--yl-blue-dark); background: #f1f0ff; border-radius: 999px; font-size: 0.58rem; font-weight: 800; letter-spacing: 0.1em; transform: rotate(-2deg); }
 .baking-card h3, .interest-card h3, .travel-card h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
-.baking-card h3 { margin-top: 1.5rem; font-size: 1.55rem; line-height: 1.08; }
-.baking-card p { margin-top: 0.75rem; color: var(--yl-muted); font-size: 0.77rem; line-height: 1.55; }
+.baking-card h3 { font-size: 1.2rem; line-height: 1.08; }
+.baking-card p { margin-top: 0.45rem; color: var(--yl-muted); font-size: 0.72rem; line-height: 1.48; }
 .interest-stack { display: grid; grid-template-rows: repeat(3, 1fr); gap: 1rem; }
 .interest-card { display: grid; grid-template-columns: 42px 1fr; gap: 0.85rem; align-items: center; padding: 1.1rem 1.2rem; border: 1px solid rgba(23, 33, 43, 0.08); border-radius: 18px; }
 .interest-card--game { background: #e7f4e9; }
@@ -216,18 +218,18 @@ body {
 .interest-card__icon { display: grid; width: 38px; height: 38px; place-items: center; background: rgba(255, 255, 255, 0.68); border-radius: 50%; font-size: 1.15rem; }
 .interest-card p { margin-bottom: 0.35rem; color: var(--yl-blue-dark); font-size: 0.58rem; font-weight: 800; letter-spacing: 0.12em; }
 .interest-card h3 { font-size: 1rem; line-height: 1.24; }
-.travel-card { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(290px, 0.55fr); gap: 1.8rem; align-items: center; margin-top: 1rem; padding: 1rem 1.7rem 1rem 1rem; background: var(--yl-paper); border: 1px solid #e6e0d7; border-radius: 20px; }
-.travel-map { margin: 0; }
-.travel-map img { display: block; width: 100%; border-radius: 15px; }
-.travel-card__copy { padding: 0.45rem 0; }
-.travel-card h3 { margin-top: 0.65rem; font-size: clamp(1.45rem, 2.4vw, 2.15rem); line-height: 1.08; }
-.travel-key { display: flex; gap: 1.1rem; margin: 1rem 0 1.15rem; color: var(--yl-muted); font-size: 0.65rem; }
-.travel-key span { display: inline-flex; gap: 0.4rem; align-items: center; }
-.travel-key i { display: inline-block; width: 8px; height: 8px; background: var(--yl-blue); border: 2px solid #fff; border-radius: 50%; box-shadow: 0 0 0 1px rgba(23, 33, 43, 0.12); }
-.travel-key i.travel-key__home { background: var(--yl-ink); box-shadow: 0 0 0 3px rgba(23, 33, 43, 0.12); }
-.travel-groups { display: grid; grid-template-columns: 1fr 1fr; gap: 0.65rem 1rem; }
-.travel-groups p { color: var(--yl-muted); font-size: 0.65rem; line-height: 1.35; }
-.travel-groups strong { display: block; margin-bottom: 0.15rem; color: var(--yl-ink); font-size: 0.6rem; letter-spacing: 0.06em; text-transform: uppercase; }
+.travel-card { width: min(100%, 700px); margin: 1rem auto 0; padding: 0.65rem 0.65rem 0.55rem; background: var(--yl-paper); border: 1px solid #e6e0d7; border-radius: 18px; }
+.travel-map { position: relative; margin: 0; }
+.travel-map img { display: block; width: 100%; border-radius: 13px; }
+.travel-card figcaption { margin-top: 0.5rem; color: var(--yl-muted); font-size: 0.56rem; font-weight: 750; letter-spacing: 0.1em; text-align: center; }
+.travel-pin { position: absolute; top: var(--y); left: var(--x); z-index: 2; width: 18px; height: 18px; padding: 0; background: transparent; border: 0; border-radius: 50%; cursor: help; font: inherit; transform: translate(calc(-50% + var(--dx, 0px)), calc(-50% + var(--dy, 0px))); }
+.travel-pin::before { position: absolute; top: 50%; left: 50%; width: 8px; height: 8px; background: var(--yl-blue); border: 2px solid #fff; border-radius: 50%; box-shadow: 0 1px 5px rgba(23, 33, 43, 0.22); content: ""; transform: translate(-50%, -50%); transition: 160ms ease; }
+.travel-pin--home::before { background: var(--yl-ink); box-shadow: 0 0 0 4px rgba(23, 33, 43, 0.14); }
+.travel-pin span { position: absolute; bottom: calc(100% + 5px); left: 50%; z-index: 5; width: max-content; max-width: 210px; padding: 0.38rem 0.52rem; color: #fff; background: rgba(23, 33, 43, 0.94); border-radius: 7px; box-shadow: 0 6px 18px rgba(23, 33, 43, 0.18); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 0.61rem; font-weight: 650; line-height: 1.2; opacity: 0; pointer-events: none; transform: translate(-50%, 4px); transition: 150ms ease; white-space: nowrap; }
+.travel-pin:hover, .travel-pin:focus-visible { z-index: 6; }
+.travel-pin:focus-visible { outline: 2px solid var(--yl-ink); outline-offset: 1px; }
+.travel-pin:hover::before, .travel-pin:focus-visible::before { width: 11px; height: 11px; background: var(--yl-blue-dark); }
+.travel-pin:hover span, .travel-pin:focus-visible span { opacity: 1; transform: translate(-50%, 0); }
 
 .contact-simple { display: grid; grid-template-columns: auto 1fr; gap: clamp(2rem, 7vw, 7rem); align-items: baseline; padding: 5rem 0 1.5rem; border-top: 1px solid var(--yl-line); scroll-margin-top: 96px; }
 .contact-simple h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.5rem, 3vw, 2.8rem); letter-spacing: -0.035em; }
@@ -253,8 +255,7 @@ body {
   .off-duty__grid { grid-template-columns: 1fr; }
   .interest-stack { grid-template-columns: repeat(3, 1fr); grid-template-rows: none; }
   .interest-card { grid-template-columns: 1fr; align-content: start; }
-  .travel-card { grid-template-columns: 1fr; padding: 1rem; }
-  .travel-card__copy { padding: 0.5rem 0.6rem 0.8rem; }
+  .travel-card { width: min(100%, 680px); }
 }
 
 @media (max-width: 600px) {
@@ -271,12 +272,13 @@ body {
   .timeline article { grid-template-columns: 1fr; gap: 0.6rem; }
   .recognition { grid-template-columns: 1fr; }
   .recognition .service-note { grid-column: auto; }
-  .baking-card { grid-template-columns: 1fr; }
-  .baking-collage { min-height: 310px; }
-  .baking-card__copy { min-height: 205px; }
+  .baking-collage { grid-template-rows: 118px; }
+  .baking-card__copy { min-height: 126px; }
   .interest-stack { grid-template-columns: 1fr; }
   .interest-card { grid-template-columns: 42px 1fr; }
-  .travel-groups { grid-template-columns: 1fr; }
+  .travel-card { width: 100%; }
+  .travel-pin { width: 16px; height: 16px; }
+  .travel-pin span { max-width: 180px; white-space: normal; }
   .contact-simple { grid-template-columns: 1fr; gap: 1rem; padding-top: 4rem; }
   .contact-simple h2 { font-size: clamp(1.2rem, 6vw, 1.8rem); }
   .site-footer__row { grid-template-columns: 1fr; gap: 0.45rem; text-align: center; }

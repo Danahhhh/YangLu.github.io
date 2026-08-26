@@ -203,24 +203,23 @@ redirect_from:
     </div>
   </div>
 
-  <article class="travel-card">
-    <figure class="travel-map">
-      <img src="{{ '/images/travel-map.png' | relative_url }}" alt="World map marking Hangzhou and places Yang Lu has visited across Australia, Asia, the United States, and Europe" loading="lazy" decoding="async" />
-    </figure>
-    <div class="travel-card__copy">
-      <p class="section-kicker">PLACES & POSTCARDS</p>
-      <h3>Hangzhou is home.<br />The map keeps growing.</h3>
-      <div class="travel-key" aria-label="Map legend"><span><i class="travel-key__home"></i>Home</span><span><i></i>Visited</span></div>
-      <div class="travel-groups">
-        <p><strong>Australia</strong>Melbourne · Perth</p>
-        <p><strong>Japan</strong>Hokkaido · Okinawa</p>
-        <p><strong>Southeast Asia</strong>Malaysia · Vietnam · Thailand</p>
-        <p><strong>More in Asia</strong>Hong Kong</p>
-        <p><strong>United States</strong>Rochester · New York · Florida</p>
-        <p><strong>Europe</strong>Barcelona · Sicily</p>
-      </div>
+  <figure class="travel-card">
+    <div class="travel-map">
+      <img src="{{ '/images/travel-map-interactive.png' | relative_url }}" alt="World map with interactive markers for places Yang Lu has visited" loading="lazy" decoding="async" />
+      <button class="travel-pin travel-pin--home" style="--x: 76.944%; --y: 33.052%; --dx: -5px; --dy: -4px;" type="button" aria-label="Hangzhou, home"><span>Hangzhou · Home</span></button>
+      <button class="travel-pin" style="--x: 81.643%; --y: 71.178%;" type="button" aria-label="Melbourne"><span>Melbourne</span></button>
+      <button class="travel-pin" style="--x: 75.842%; --y: 67.89%;" type="button" aria-label="Perth"><span>Perth</span></button>
+      <button class="travel-pin" style="--x: 80.142%; --y: 25.901%; --dx: 5px; --dy: -3px;" type="button" aria-label="Hokkaido"><span>Hokkaido</span></button>
+      <button class="travel-pin" style="--x: 78.964%; --y: 35.335%; --dx: 6px; --dy: 4px;" type="button" aria-label="Okinawa"><span>Okinawa</span></button>
+      <button class="travel-pin" style="--x: 74.083%; --y: 43.867%; --dx: -5px; --dy: 3px;" type="button" aria-label="Malaysia, Vietnam, and Thailand"><span>Malaysia · Vietnam · Thailand</span></button>
+      <button class="travel-pin" style="--x: 76.142%; --y: 37.521%; --dx: -8px; --dy: 6px;" type="button" aria-label="Hong Kong"><span>Hong Kong</span></button>
+      <button class="travel-pin" style="--x: 33.752%; --y: 26.526%;" type="button" aria-label="Rochester and New York"><span>Rochester · New York</span></button>
+      <button class="travel-pin" style="--x: 31.58%; --y: 34.519%;" type="button" aria-label="Florida"><span>Florida</span></button>
+      <button class="travel-pin" style="--x: 50.467%; --y: 26.831%; --dx: -4px; --dy: -2px;" type="button" aria-label="Barcelona"><span>Barcelona</span></button>
+      <button class="travel-pin" style="--x: 53.062%; --y: 28.942%; --dx: 5px; --dy: 4px;" type="button" aria-label="Sicily"><span>Sicily</span></button>
     </div>
-  </article>
+    <figcaption>TRAVEL FOOTPRINTS · HOVER OR FOCUS A DOT</figcaption>
+  </figure>
 </section>
 
 <section id="contact" class="contact-simple" aria-labelledby="contact-title">
