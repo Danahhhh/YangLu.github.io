@@ -206,6 +206,7 @@ redirect_from:
   <figure class="travel-card">
     <div class="travel-map">
       <img src="{{ '/images/travel-map-interactive.png' | relative_url }}" alt="World map with interactive markers for places Yang Lu has visited" loading="lazy" decoding="async" />
+      <h3 class="travel-map__title">Travel footprints</h3>
       <button class="travel-pin travel-pin--home" style="--x: 76.944%; --y: 33.052%; --dx: -5px; --dy: -4px;" type="button" aria-label="Hangzhou, home"><span>Hangzhou · Home</span></button>
       <button class="travel-pin" style="--x: 81.643%; --y: 71.178%;" type="button" aria-label="Melbourne"><span>Melbourne</span></button>
       <button class="travel-pin" style="--x: 75.842%; --y: 67.89%;" type="button" aria-label="Perth"><span>Perth</span></button>
@@ -218,7 +219,6 @@ redirect_from:
       <button class="travel-pin" style="--x: 50.467%; --y: 26.831%; --dx: -4px; --dy: -2px;" type="button" aria-label="Barcelona"><span>Barcelona</span></button>
       <button class="travel-pin" style="--x: 53.062%; --y: 28.942%; --dx: 5px; --dy: 4px;" type="button" aria-label="Sicily"><span>Sicily</span></button>
     </div>
-    <figcaption>TRAVEL FOOTPRINTS · HOVER OR FOCUS A DOT</figcaption>
   </figure>
 </section>
 
