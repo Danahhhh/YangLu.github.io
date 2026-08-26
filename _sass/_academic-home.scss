@@ -191,6 +191,44 @@ body {
 .service-note { padding: 1.4rem; background: var(--yl-paper); border-radius: 14px; }
 .service-note > p:last-child { margin-top: 0.85rem; color: #4c5761; font-size: 0.82rem; line-height: 1.6; }
 
+.off-duty__heading { align-items: end; }
+.off-duty__heading > p { max-width: 430px; color: var(--yl-muted); font-family: Georgia, "Times New Roman", serif; font-size: 1.12rem; line-height: 1.55; }
+.off-duty__grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.65fr); gap: 1rem; }
+.baking-card { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(210px, 0.7fr); min-height: 350px; overflow: hidden; background: #fff; border: 1px solid var(--yl-line); border-radius: 20px; }
+.baking-collage { display: grid; grid-template-columns: 1.35fr 0.85fr; grid-template-rows: 1fr 1fr; gap: 0.55rem; min-height: 350px; padding: 0.7rem; background: var(--yl-paper); }
+.bake-photo { min-width: 0; min-height: 0; margin: 0; overflow: hidden; border-radius: 12px; }
+.bake-photo--main { grid-row: 1 / 3; }
+.bake-photo img { display: block; width: 100%; height: 100%; object-fit: cover; filter: saturate(0.94) contrast(1.02); transition: transform 420ms ease; }
+.bake-photo--main img { object-position: 51% 50%; }
+.bake-photo:nth-child(2) img { object-position: 50% 54%; }
+.bake-photo:nth-child(3) img { object-position: 50% 48%; }
+.bake-photo:hover img { transform: scale(1.035); }
+.baking-card__copy { display: flex; flex-direction: column; justify-content: flex-end; padding: 1.5rem; }
+.hobby-sticker { align-self: flex-start; margin-bottom: auto; padding: 0.4rem 0.58rem; color: var(--yl-blue-dark); background: #f1f0ff; border-radius: 999px; font-size: 0.6rem; font-weight: 800; letter-spacing: 0.1em; transform: rotate(-2deg); }
+.baking-card h3, .interest-card h3, .travel-card h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
+.baking-card h3 { margin-top: 1.5rem; font-size: 1.55rem; line-height: 1.08; }
+.baking-card p { margin-top: 0.75rem; color: var(--yl-muted); font-size: 0.77rem; line-height: 1.55; }
+.interest-stack { display: grid; grid-template-rows: repeat(3, 1fr); gap: 1rem; }
+.interest-card { display: grid; grid-template-columns: 42px 1fr; gap: 0.85rem; align-items: center; padding: 1.1rem 1.2rem; border: 1px solid rgba(23, 33, 43, 0.08); border-radius: 18px; }
+.interest-card--game { background: #e7f4e9; }
+.interest-card--movie { background: #eeeafe; }
+.interest-card--move { background: #f4eee3; }
+.interest-card__icon { display: grid; width: 38px; height: 38px; place-items: center; background: rgba(255, 255, 255, 0.68); border-radius: 50%; font-size: 1.15rem; }
+.interest-card p { margin-bottom: 0.35rem; color: var(--yl-blue-dark); font-size: 0.58rem; font-weight: 800; letter-spacing: 0.12em; }
+.interest-card h3 { font-size: 1rem; line-height: 1.24; }
+.travel-card { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(290px, 0.55fr); gap: 1.8rem; align-items: center; margin-top: 1rem; padding: 1rem 1.7rem 1rem 1rem; background: var(--yl-paper); border: 1px solid #e6e0d7; border-radius: 20px; }
+.travel-map { margin: 0; }
+.travel-map img { display: block; width: 100%; border-radius: 15px; }
+.travel-card__copy { padding: 0.45rem 0; }
+.travel-card h3 { margin-top: 0.65rem; font-size: clamp(1.45rem, 2.4vw, 2.15rem); line-height: 1.08; }
+.travel-key { display: flex; gap: 1.1rem; margin: 1rem 0 1.15rem; color: var(--yl-muted); font-size: 0.65rem; }
+.travel-key span { display: inline-flex; gap: 0.4rem; align-items: center; }
+.travel-key i { display: inline-block; width: 8px; height: 8px; background: var(--yl-blue); border: 2px solid #fff; border-radius: 50%; box-shadow: 0 0 0 1px rgba(23, 33, 43, 0.12); }
+.travel-key i.travel-key__home { background: var(--yl-ink); box-shadow: 0 0 0 3px rgba(23, 33, 43, 0.12); }
+.travel-groups { display: grid; grid-template-columns: 1fr 1fr; gap: 0.65rem 1rem; }
+.travel-groups p { color: var(--yl-muted); font-size: 0.65rem; line-height: 1.35; }
+.travel-groups strong { display: block; margin-bottom: 0.15rem; color: var(--yl-ink); font-size: 0.6rem; letter-spacing: 0.06em; text-transform: uppercase; }
+
 .contact-simple { display: grid; grid-template-columns: auto 1fr; gap: clamp(2rem, 7vw, 7rem); align-items: baseline; padding: 5rem 0 1.5rem; border-top: 1px solid var(--yl-line); scroll-margin-top: 96px; }
 .contact-simple h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.5rem, 3vw, 2.8rem); letter-spacing: -0.035em; }
 .contact-simple a { display: inline-flex; gap: 0.8rem; align-items: center; border-bottom: 1px solid transparent; }
@@ -212,6 +250,11 @@ body {
   .paper__visual { min-height: 230px; }
   .recognition { grid-template-columns: 1fr 1.4fr; }
   .recognition .service-note { grid-column: 1 / -1; }
+  .off-duty__grid { grid-template-columns: 1fr; }
+  .interest-stack { grid-template-columns: repeat(3, 1fr); grid-template-rows: none; }
+  .interest-card { grid-template-columns: 1fr; align-content: start; }
+  .travel-card { grid-template-columns: 1fr; padding: 1rem; }
+  .travel-card__copy { padding: 0.5rem 0.6rem 0.8rem; }
 }
 
 @media (max-width: 600px) {
@@ -228,6 +271,12 @@ body {
   .timeline article { grid-template-columns: 1fr; gap: 0.6rem; }
   .recognition { grid-template-columns: 1fr; }
   .recognition .service-note { grid-column: auto; }
+  .baking-card { grid-template-columns: 1fr; }
+  .baking-collage { min-height: 310px; }
+  .baking-card__copy { min-height: 205px; }
+  .interest-stack { grid-template-columns: 1fr; }
+  .interest-card { grid-template-columns: 42px 1fr; }
+  .travel-groups { grid-template-columns: 1fr; }
   .contact-simple { grid-template-columns: 1fr; gap: 1rem; padding-top: 4rem; }
   .contact-simple h2 { font-size: clamp(1.2rem, 6vw, 1.8rem); }
   .site-footer__row { grid-template-columns: 1fr; gap: 0.45rem; text-align: center; }

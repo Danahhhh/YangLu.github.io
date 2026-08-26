@@ -164,6 +164,65 @@ redirect_from:
   </div>
 </section>
 
+<section class="section-block off-duty" aria-labelledby="off-duty-title">
+  <header class="section-heading off-duty__heading">
+    <div>
+      <p class="section-kicker">OUTSIDE THE LAB</p>
+      <h2 id="off-duty-title">A few things I love.</h2>
+    </div>
+    <p>I find joy in making things—sometimes XR systems, sometimes mooncakes.</p>
+  </header>
+
+  <div class="off-duty__grid">
+    <article class="baking-card">
+      <div class="baking-collage">
+        <figure class="bake-photo bake-photo--main"><img src="{{ '/images/hobby-mooncakes.jpg' | relative_url }}" alt="Pastel floral mooncakes baked by Yang Lu" loading="lazy" decoding="async" /></figure>
+        <figure class="bake-photo"><img src="{{ '/images/hobby-hand-pies.jpg' | relative_url }}" alt="Wrapped hand pies baked by Yang Lu" loading="lazy" decoding="async" /></figure>
+        <figure class="bake-photo"><img src="{{ '/images/hobby-peanut-candy.jpg' | relative_url }}" alt="Homemade peanut candy made by Yang Lu" loading="lazy" decoding="async" /></figure>
+      </div>
+      <div class="baking-card__copy">
+        <span class="hobby-sticker">BAKED BY ME</span>
+        <h3>Prototypes you can eat.</h3>
+        <p>I love exploring food and baking—especially colorful recipes made to be shared.</p>
+      </div>
+    </article>
+
+    <div class="interest-stack" aria-label="Personal interests">
+      <article class="interest-card interest-card--game">
+        <span class="interest-card__icon" aria-hidden="true">🌱</span>
+        <div><p>COZY GAMING</p><h3>Stardew Valley is my forever favorite.</h3></div>
+      </article>
+      <article class="interest-card interest-card--movie">
+        <span class="interest-card__icon" aria-hidden="true">✦</span>
+        <div><p>MOVIE NIGHTS</p><h3>A loyal Marvel fan and enthusiastic moviegoer.</h3></div>
+      </article>
+      <article class="interest-card interest-card--move">
+        <span class="interest-card__icon" aria-hidden="true">↗</span>
+        <div><p>KEEP MOVING</p><h3>Gym regular, climbing rookie—very much still learning.</h3></div>
+      </article>
+    </div>
+  </div>
+
+  <article class="travel-card">
+    <figure class="travel-map">
+      <img src="{{ '/images/travel-map.png' | relative_url }}" alt="World map marking Hangzhou and places Yang Lu has visited across Australia, Asia, the United States, and Europe" loading="lazy" decoding="async" />
+    </figure>
+    <div class="travel-card__copy">
+      <p class="section-kicker">PLACES & POSTCARDS</p>
+      <h3>Hangzhou is home.<br />The map keeps growing.</h3>
+      <div class="travel-key" aria-label="Map legend"><span><i class="travel-key__home"></i>Home</span><span><i></i>Visited</span></div>
+      <div class="travel-groups">
+        <p><strong>Australia</strong>Melbourne · Perth</p>
+        <p><strong>Japan</strong>Hokkaido · Okinawa</p>
+        <p><strong>Southeast Asia</strong>Malaysia · Vietnam · Thailand</p>
+        <p><strong>More in Asia</strong>Hong Kong</p>
+        <p><strong>United States</strong>Rochester · New York · Florida</p>
+        <p><strong>Europe</strong>Barcelona · Sicily</p>
+      </div>
+    </div>
+  </article>
+</section>
+
 <section id="contact" class="contact-simple" aria-labelledby="contact-title">
   <p class="section-kicker">CONTACT</p>
   <h2 id="contact-title"><a href="mailto:danalu0723@gmail.com">danalu0723@gmail.com <span aria-hidden="true">↗</span></a></h2>
