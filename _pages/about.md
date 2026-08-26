@@ -41,17 +41,12 @@ redirect_from:
   </div>
   <div class="intro-grid__body">
     <p>I investigate XR system design from a user-centered perspective. I view XR not simply as a display medium, but as a design space where information, virtual bodies, interactions, interfaces, and social signals can be adapted to users’ tasks, contexts, and needs. Through immersive system building and empirical studies, I develop design implications that support users’ cognitive workflows, embodied experiences, and social interaction in VR.</p>
-    <div class="quick-facts" aria-label="Highlights">
-      <div><strong>7</strong><span>Publications</span></div>
-      <div><strong>3</strong><span>First-author papers</span></div>
-      <div><strong>3</strong><span>Sponsored projects</span></div>
-    </div>
   </div>
 </section>
 
 <section id="publications" class="section-block publications" aria-labelledby="publications-title">
   <header class="section-heading section-heading--compact">
-    <div><p class="section-kicker">PUBLICATIONS</p><h2 id="publications-title">Research publications</h2></div>
+    <div><p class="section-kicker">PUBLICATIONS</p><h2 id="publications-title">Selected publications</h2></div>
     <a class="text-link" href="https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en">All publications on Scholar <span aria-hidden="true">↗</span></a>
   </header>
 
@@ -59,7 +54,10 @@ redirect_from:
     <article class="paper paper--feature">
       <div class="paper__visual paper__visual--concept paper__visual--expression" aria-hidden="true">
         <span class="paper__venue">DIS ’26</span>
-        <span class="paper__concept-word">Expression</span><i></i><b></b>
+        <div class="expression-controls"><span></span><span></span><span></span></div>
+        <div class="expression-face"><span class="expression-eye expression-eye--left"></span><span class="expression-eye expression-eye--right"></span><span class="expression-mouth"></span></div>
+        <div class="expression-link"></div>
+        <span class="paper__concept-word">Expression control</span>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>DIS 2026</span></div>
@@ -72,7 +70,10 @@ redirect_from:
     <article class="paper paper--feature">
       <div class="paper__visual paper__visual--concept paper__visual--capability" aria-hidden="true">
         <span class="paper__venue">CHI ’26</span>
-        <span class="paper__concept-word">Capability</span><i></i><b></b>
+        <div class="capability-avatar"><span class="capability-head"></span><span class="capability-body"></span><span class="capability-arm capability-arm--base"></span><span class="capability-arm capability-arm--augmented"></span></div>
+        <span class="capability-signal capability-signal--reach">Extended reach</span>
+        <span class="capability-signal capability-signal--action">Action cue</span>
+        <span class="paper__concept-word">Augmented actions</span>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>CHI 2026</span></div>
@@ -85,7 +86,13 @@ redirect_from:
     <article class="paper paper--feature">
       <div class="paper__visual paper__visual--concept paper__visual--sankey" aria-hidden="true">
         <span class="paper__venue">MM ’24</span>
-        <span class="paper__concept-word">Immersive data</span><i></i><b></b><em></em>
+        <div class="sankey-stage">
+          <span class="sankey-node sankey-node--a1"></span><span class="sankey-node sankey-node--a2"></span>
+          <span class="sankey-node sankey-node--b1"></span><span class="sankey-node sankey-node--b2"></span>
+          <span class="sankey-node sankey-node--c1"></span><span class="sankey-node sankey-node--c2"></span>
+          <span class="sankey-flow sankey-flow--one"></span><span class="sankey-flow sankey-flow--two"></span><span class="sankey-flow sankey-flow--three"></span>
+        </div>
+        <span class="paper__concept-word">Spatial Sankey</span>
       </div>
       <div class="paper__content">
         <div class="paper__meta"><span>ACM MM 2024</span></div>
@@ -96,7 +103,6 @@ redirect_from:
     </article>
   </div>
 
-  <p class="publication-list__label">OTHER PUBLICATIONS</p>
   <div class="paper-list">
     <a class="paper-row" href="https://doi.org/10.1016/j.displa.2024.102790">
       <span class="paper-row__year">2024</span>
