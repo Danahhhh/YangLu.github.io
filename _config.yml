@@ -13,9 +13,9 @@ title                    : "Yang Lu"
 title_separator          : "-"
 name                     : &name "Yang Lu"
 description              : &description "HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication"
-URL                      : https://Danahhhh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/academicpages.github.io"
+url                      : "https://danahhhh.github.io"
+baseurl                  : "/YangLu.github.io"
+repository               : "Danahhhh/YangLu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -35,7 +35,7 @@ author:
   #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en"
   #impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0003-6233-4153"
+  orcid            : "https://orcid.org/0009-0003-6233-4153"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
@@ -140,9 +140,12 @@ og_image                 : "hero-yang-lu-v2.jpg" # Open Graph/Twitter default si
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Yang Lu"
+  links:
+    - "https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en"
+    - "https://orcid.org/0009-0003-6233-4153"
+    - "https://github.com/Danahhhh"
 
 
 # Analytics
@@ -168,6 +171,28 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - markdown_generator
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - CHANGELOG
   - Capfile
   - config
@@ -302,7 +327,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -310,7 +334,6 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 
