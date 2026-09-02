@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://danahhhh.github.io/YangLu.github.io/sitemap.xml
+Sitemap: https://danahhhh.github.io/YangLu.github.io/sitemap.txt
