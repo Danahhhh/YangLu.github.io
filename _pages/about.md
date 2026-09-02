@@ -1,9 +1,9 @@
 ---
 layout: home
 permalink: /
-title: "Yang Lu — HCI, Mixed Reality & User Perception"
-browser_title: "Yang Lu's Homepage"
-excerpt: "Yang Lu is an HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication."
+title: "Yang (Dana) Lu — HCI, Mixed Reality & User Perception"
+browser_title: "Yang (Dana) Lu's Homepage"
+excerpt: "Yang (Dana) Lu is an HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication."
 author_profile: false
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 <section class="hero" aria-labelledby="intro-title">
   <div class="hero__copy">
     <p class="eyebrow">HCI · MIXED REALITY · USER PERCEPTION</p>
-    <h1 id="intro-title">Yang Lu</h1>
+    <h1 id="intro-title">Yang (Dana) Lu</h1>
     <p class="hero__statement">My research focuses on <em>user-centered XR system design</em>, with an emphasis on how people understand, interact, and communicate in immersive environments.</p>
     <div class="market-note">
       <span class="market-note__dot" aria-hidden="true"></span>
@@ -29,13 +29,13 @@ redirect_from:
   </div>
   <figure class="hero__portrait">
     <div class="portrait__arch">
-      <img src="{{ '/images/portrait-2026-v2.jpg' | relative_url }}" alt="Yang Lu standing beside a white horse" />
+      <img src="{{ '/images/portrait-2026-v2.jpg' | relative_url }}" alt="Yang (Dana) Lu standing beside a white horse" />
     </div>
     <figcaption>HCI · Mixed Reality · User Perception</figcaption>
   </figure>
 </section>
 
-<section class="intro-grid" aria-label="About Yang Lu">
+<section class="intro-grid" aria-label="About Yang (Dana) Lu">
   <div class="intro-grid__lead">
     <p class="section-kicker">RESEARCH FOCUS</p>
     <h2>Designing XR around how people think, move, and connect.</h2>
@@ -176,9 +176,9 @@ redirect_from:
   <div class="off-duty__grid">
     <article class="baking-card">
       <div class="baking-collage">
-        <figure class="bake-photo bake-photo--main"><img src="{{ '/images/hobby-mooncakes.jpg' | relative_url }}" alt="Pastel floral mooncakes baked by Yang Lu" loading="lazy" decoding="async" /></figure>
-        <figure class="bake-photo"><img src="{{ '/images/hobby-hand-pies.jpg' | relative_url }}" alt="Wrapped hand pies baked by Yang Lu" loading="lazy" decoding="async" /></figure>
-        <figure class="bake-photo"><img src="{{ '/images/hobby-peanut-candy.jpg' | relative_url }}" alt="Homemade peanut candy made by Yang Lu" loading="lazy" decoding="async" /></figure>
+        <figure class="bake-photo bake-photo--main"><img src="{{ '/images/hobby-mooncakes.jpg' | relative_url }}" alt="Pastel floral mooncakes baked by Yang (Dana) Lu" loading="lazy" decoding="async" /></figure>
+        <figure class="bake-photo"><img src="{{ '/images/hobby-hand-pies.jpg' | relative_url }}" alt="Wrapped hand pies baked by Yang (Dana) Lu" loading="lazy" decoding="async" /></figure>
+        <figure class="bake-photo"><img src="{{ '/images/hobby-peanut-candy.jpg' | relative_url }}" alt="Homemade peanut candy made by Yang (Dana) Lu" loading="lazy" decoding="async" /></figure>
       </div>
       <div class="baking-card__copy">
         <span class="hobby-sticker">BAKED BY ME</span>
@@ -206,7 +206,7 @@ redirect_from:
   <p class="travel-intro">I love traveling to explore different cultures, cuisines, and ways of life.</p>
   <figure class="travel-card">
     <div class="travel-map">
-      <img src="{{ '/images/travel-map-interactive.png' | relative_url }}" alt="World map with interactive markers for places Yang Lu has visited" loading="lazy" decoding="async" />
+      <img src="{{ '/images/travel-map-interactive.png' | relative_url }}" alt="World map with interactive markers for places Yang (Dana) Lu has visited" loading="lazy" decoding="async" />
       <h3 class="travel-map__title">Travel footprints</h3>
       <button class="travel-pin travel-pin--home" style="--x: 76.944%; --y: 33.052%; --dx: -5px; --dy: -4px;" type="button" aria-label="Hangzhou, home"><span>Hangzhou · Home</span></button>
       <button class="travel-pin" style="--x: 81.643%; --y: 71.178%;" type="button" aria-label="Melbourne"><span>Melbourne</span></button>

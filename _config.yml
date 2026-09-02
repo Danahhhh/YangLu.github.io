@@ -9,9 +9,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yang Lu"
+title                    : "Yang (Dana) Lu"
 title_separator          : "-"
-name                     : &name "Yang Lu"
+name                     : &name "Yang (Dana) Lu"
 description              : &description "HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication"
 url                      : "https://danahhhh.github.io"
 baseurl                  : "/YangLu.github.io"
@@ -23,7 +23,7 @@ repository               : "Danahhhh/YangLu.github.io"
 author:
   # Biographic information
   avatar           : "portrait-2026.jpg"
-  name             : "Yang Lu"
+  name             : "Yang (Dana) Lu"
   pronouns         : # example: "she/her"  
   bio              : "HCI · Mixed Reality · User Perception · Ph.D. 2026"
   #location         : "Earth"
@@ -141,7 +141,7 @@ og_image                 : "hero-yang-lu-v2.jpg" # Open Graph/Twitter default si
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Person"
-  name                   : "Yang Lu"
+  name                   : "Yang (Dana) Lu"
   links:
     - "https://scholar.google.com/citations?user=HHzZ_ZoAAAAJ&hl=en"
     - "https://orcid.org/0009-0003-6233-4153"
