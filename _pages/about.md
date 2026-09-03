@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Yang (Dana) Lu — HCI, Mixed Reality & User Perception"
-browser_title: "Yang (Dana) Lu's Homepage"
+browser_title: "Yang (Dana) Lu | HCI & XR Researcher · Zhejiang University Ph.D."
 excerpt: "Yang (Dana) Lu is an HCI and Mixed Reality researcher designing user-centered XR systems for understanding, interaction, and communication."
 author_profile: false
 redirect_from: 
