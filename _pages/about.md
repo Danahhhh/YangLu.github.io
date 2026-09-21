@@ -17,7 +17,7 @@ redirect_from:
     <div class="market-note">
       <span class="market-note__dot" aria-hidden="true"></span>
       <div>
-        <strong>On the academic job market</strong>
+        <strong>On the job market</strong>
         <p>I completed my Ph.D. in Design Science at Zhejiang University in June 2026 and am seeking academic positions.</p>
       </div>
     </div>
@@ -33,6 +33,17 @@ redirect_from:
     </div>
     <figcaption>HCI · Mixed Reality · User Perception</figcaption>
   </figure>
+</section>
+
+<section class="latest-news" aria-labelledby="latest-news-title">
+  <div class="latest-news__heading">
+    <p class="section-kicker">NEWS</p>
+    <h2 id="latest-news-title">Latest news</h2>
+  </div>
+  <article class="latest-news__item">
+    <time datetime="2026-09-08">08 SEP 2026</time>
+    <p>I received an offer to join the National University of Singapore (NUS) as a Research Fellow and will soon join the Immersive Reality Lab.</p>
+  </article>
 </section>
 
 <section class="intro-grid" aria-label="About Yang (Dana) Lu">
